@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Flawed Brain"
             }
-          },
-          {
-            "id": "ca87362203419493",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "test test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "test test"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,10 +184,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ca87362203419493",
+  "active": "b776ecac1d33d1e6",
   "lastOpenFiles": [
-    "Flawed Brain.md",
     "test test.md",
+    "Flawed Brain.md",
     "FLAWS"
   ]
 }
