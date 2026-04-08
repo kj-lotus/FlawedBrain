@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Semesters/Semesters.md",
+                "file": "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Counterfactual Thinking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semesters"
+              "title": "Counterfactual Thinking"
             }
           }
         ]
@@ -184,17 +184,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ba027e3d7b433a1",
+  "active": "fe799b20b2af7d64",
   "lastOpenFiles": [
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Class 16 - Operations.md",
-    "Assets/MGMT 35200 - Gibbs Spring 2026 13JAN2026.pdf",
-    "Classes/Semesters/Spring 2026/Spring 2026 Classes.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Work in Process (WIP).md",
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Improving Processes.md",
+    "Classes/Semesters/Spring 2026/MGMT 201 (Accounting)/Types of Costs.md",
+    "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Law Class 3.md",
+    "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Law Class 2.md",
+    "Classes/Semesters/Semesters.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Waiting Time Reduction.md",
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Work in Process (WIP).md",
+    "Classes/Semesters/Spring 2026/Spring 2026 Classes.md",
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Discounts.md",
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Loss Function.md",
+    "Assets/Pasted image 20260327124139.png.md",
+    "Assets/MGMT 35200 - Gibbs Spring 2026 13JAN2026.pdf",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Waiting time.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Processes.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Multi Server Queue.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Class 21 - Operations.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Class 1.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Innovation.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Control Charts (x bar, r chart).md",
@@ -205,13 +211,8 @@
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Capacity and cycle time.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Class 6 - Operations.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Line Balancing.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Improving Processes.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Strategic Management Syllabus.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Vertical Integration & Diversification.md",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Comparative Advantage + Value.md",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Notes for mgmt 352 final exam.md",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Counterfactual Thinking.md",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Air bnb Cost dif pt 2.md",
     "Clubs/Momentum/Supply Chain Project",
     "Clubs/AKP/Brother Interviews",
     "Clubs/Momentum",

@@ -1,1 +1,1 @@
-[[Accounting Class 2]]
+[[Types of Costs]]
