@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Semesters/Spring 2026/MGMT 305 (STATS)/Descriptive Statistics.md",
+                "file": "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Multi Server Queue.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Descriptive Statistics"
+              "title": "Multi Server Queue"
             }
           }
         ]
@@ -186,6 +186,8 @@
   },
   "active": "fe799b20b2af7d64",
   "lastOpenFiles": [
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Line Balancing.md",
+    "Classes/Semesters/Spring 2026/MGMT 305 (STATS)/Descriptive Statistics.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Counterfactual Thinking.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Improving Processes.md",
     "Classes/Semesters/Spring 2026/MGMT 201 (Accounting)/Types of Costs.md",
@@ -211,8 +213,6 @@
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Batching and Setup.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Capacity and cycle time.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Class 6 - Operations.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Line Balancing.md",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Strategic Management Syllabus.md",
     "Clubs/Momentum/Supply Chain Project",
     "Clubs/AKP/Brother Interviews",
     "Clubs/Momentum",
