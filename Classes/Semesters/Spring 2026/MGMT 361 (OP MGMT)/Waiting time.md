@@ -1,4 +1,4 @@
-	## Waiting time ##
+## Waiting time ##
 
 Queueing System
 	Input -> Buffer -> Processing
