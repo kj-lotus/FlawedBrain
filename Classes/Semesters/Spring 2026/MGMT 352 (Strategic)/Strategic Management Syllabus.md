@@ -1,0 +1,11 @@
+![[MGMT 35200 - Gibbs Spring 2026 13JAN2026.pdf]]
+
+Class 2 1/15: [[Session 2]]
+Class 3 1/20: [[Session 3 - Strategic]]
+2/17 [[Chapter 6 - Differentiation, Cost Leadership]]
+2/23 [[Strategic - Ch 7 Textbook Notes]]
+3/2 [[Class 13 - Strategic]]
+3/4 [[Class 14 - Strategic]]
+3/24 [[Strategic - Vertical Integration & Diversification]]
+[[AirBNB - Cost leadership vs Differentiation]]
+[[Air bnb Cost dif pt 2]]

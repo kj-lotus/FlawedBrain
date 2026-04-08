@@ -1,0 +1,13 @@
+![[Syllabus J MGMT 254 J Spring 2026.pdf]]
+
+Classes
+1/16[[Law Class 2]]
+1/20 [[Law Class 3]]
+2/12 [[Tort Law]]
+2/17 [[Contract law 2.17]]
+2/19 [[Contract Law p2 2.19]]
+2/24 [[Legality and Public Policy, Writing, Electronic Forms, and Interpretation of Contracts.]]
+3/4 [[NFL Contract]]
+3/26 [[Real Property Notes]]
+[[Bankruptcy Law]]
+[[Land Use Controls]]
