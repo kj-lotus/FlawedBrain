@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Air bnb Cost dif pt 2.md",
+                "file": "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Business Law Syllabus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Air bnb Cost dif pt 2"
+              "title": "Business Law Syllabus"
+            }
+          },
+          {
+            "id": "dcb4e059dd127206",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Prompting sequence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompting sequence"
+            }
+          },
+          {
+            "id": "da0799e5fcff0ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Prompting sequence.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prompting sequence"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,10 +213,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fe799b20b2af7d64",
+  "active": "da0799e5fcff0ba7",
   "lastOpenFiles": [
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/AirBNB - Cost leadership vs Differentiation.md",
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Questions.md",
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Prompting sequence.md",
+    "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Business Law Syllabus.md",
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Air bnb Cost dif pt 2.md",
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/AirBNB - Cost leadership vs Differentiation.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Vertical Integration & Diversification.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Loss Function.md",
     "Assets/Pasted image 20260302131100.png",
@@ -219,9 +252,6 @@
     "Classes/Semesters/Spring 2026/MGMT 201 (Accounting)/Types of Costs.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Law Class 3.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Law Class 2.md",
-    "Classes/Semesters/Semesters.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Work in Process (WIP).md",
-    "Classes/Semesters/Spring 2026/Spring 2026 Classes.md",
     "Assets/MGMT 35200 - Gibbs Spring 2026 13JAN2026.pdf",
     "Clubs/Momentum/Supply Chain Project",
     "Clubs/AKP/Brother Interviews",
@@ -230,7 +260,6 @@
     "Clubs",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)",
-    "Classes/Semesters/Spring 2026/MGMT 305 (STATS)",
-    "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)"
+    "Classes/Semesters/Spring 2026/MGMT 305 (STATS)"
   ]
 }
