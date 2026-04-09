@@ -45,4 +45,4 @@ Prioritize **differentiation in compliant "Primary Home" experiences** (80% in
 | **Speed/Feas.**     | 36 months, host risks   | 12 months, AI-enforced          |
 | **Upside**          | Containment             | Growth + national moat          |
 
-This outperforms by quantifying costs (report lacks), leveraging 2026 data (e.g., no reform votes), and avoiding dilution—ensuring Airbnb leads as differentiated low-cost innovator, not supplicant. Approve for immediate execution.
+This outperforms by quantifying costs (report lacks), leveraging 2026 data (e.g., no reform votes), and avoiding dilution, ensuring Airbnb leads as differentiated low-cost innovator, not supplicant. Approve for immediate execution.

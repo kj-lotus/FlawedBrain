@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Prompting sequence.md",
+                "file": "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/AirBNB - Cost leadership vs Differentiation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Prompting sequence"
+              "title": "AirBNB - Cost leadership vs Differentiation"
             }
           },
           {
@@ -31,8 +31,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -175,13 +174,23 @@
               "icon": "lucide-list",
               "title": "Outline of Flawed Brain"
             }
+          },
+          {
+            "id": "8516baa241127e8a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "468b51e055aace3c",
+  "active": "da0799e5fcff0ba7",
   "lastOpenFiles": [
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Strategic Management Syllabus.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Prompting sequence.md",
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Strategic Management Syllabus.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Business Law Syllabus.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Air bnb Cost dif pt 2.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Claude Response.md",
