@@ -16,7 +16,7 @@ While the report accurately recognizes the political problem that cities hold Ai
 **Bottom line**: This proposal entails extra cost increases of 2-5%, assumes city officials will act friendly (unrealistic considering hotel lobbyists are against it), and could cause conflict with successful hosts.
 ## My Recommendation: Be Different AND Cheap
 
-Use **Porter's competitive strategy**: Own a clear position—become the trusted platform for "real local stays" while keeping costs brutally low through automation. Don't get stuck trying to do everything.
+ Own a clear position and become the trusted platform for "real local stays" while keeping costs brutally low through automation. Don't get stuck trying to do everything.
 
 **Three Focused Moves:**
 
@@ -33,7 +33,7 @@ Use **Porter's competitive strategy**: Own a clear position—become the trusted
 3. **Federal Push + Virtual Hedging** (National Moat)
     
     - Lobby Trump administration for federal housing deregulation preempting local bans
-    - Deploy VR/AR "virtual tours" in banned markets—maintain brand presence without physical listings
+    - Deploy VR/AR "virtual tours" in banned markets and maintain brand presence without physical listings
 
 **Timeline & Results:**
 
@@ -50,4 +50,4 @@ Use **Porter's competitive strategy**: Own a clear position—become the trusted
 |**Speed**|36 months, host backlash risk|12 months, AI-enforced|
 |**Outcome**|Defensive containment|Offensive growth + federal protection|
 
-The AI report tries to please everyone and bleeds money doing it. My strategy picks a lane—premium local experiences at platform-scale costs—and uses 2026 realities (stalled NYC reforms, remote work trends) to win. Execute immediately.
+The AI report tries to please everyone and bleeds money doing it. My strategy picks a lane-premium local experiences at platform-scale costs-and uses 2026 realities (stalled NYC reforms, remote work trends) to win. 
