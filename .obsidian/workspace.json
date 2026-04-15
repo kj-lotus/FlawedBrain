@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Strategic Management Final Presentation"
             }
+          },
+          {
+            "id": "dc4e6c60c53760c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Bullwhip Effect.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bullwhip Effect"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -68,7 +82,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "b",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -211,11 +224,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6da011d313758e0e",
+  "active": "0ba027e3d7b433a1",
   "lastOpenFiles": [
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Strategic Management Final Presentation.md",
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Bullwhip Effect.md",
     "Assets/AIRBNB.pdf",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer_Game_Guide.md",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Strategic Management Final Presentation.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Air bnb Cost dif pt 2.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer Game Intro.md",
     "Assets/Pasted image 20260413123635.png",
@@ -257,7 +271,6 @@
     "Clubs/AKP",
     "Clubs",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)",
-    "Classes/Semesters/Spring 2026/MGMT 305 (STATS)"
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)"
   ]
 }
