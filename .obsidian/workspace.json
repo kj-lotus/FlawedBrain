@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "b",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -210,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0ba027e3d7b433a1",
+  "active": "6da011d313758e0e",
   "lastOpenFiles": [
     "Assets/AIRBNB.pdf",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer_Game_Guide.md",
