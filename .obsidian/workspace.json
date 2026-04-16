@@ -104,17 +104,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Flawed Brain.md",
+                "file": "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Insurance Law Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
-                "backlinkCollapsed": false,
+                "backlinkCollapsed": true,
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Flawed Brain"
+              "title": "Backlinks for Insurance Law Notes"
             }
           },
           {
@@ -185,13 +185,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,10 +205,11 @@
   },
   "active": "04c7fc2a178ead19",
   "lastOpenFiles": [
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Strategic Management Syllabus.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Insurance Law Notes.md",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Strategic Management Final Presentation.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Business Law Syllabus.md",
+    "Classes/Semesters/Spring 2026/Spring 2026 Classes.md",
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Strategic Management Syllabus.md",
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Strategic Management Final Presentation.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer_Game_Guide.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Loss Function.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Improving Processes.md",
@@ -244,7 +243,6 @@
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Capacity and cycle time.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Batching and Setup.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/batch setup exercise.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Processes.md",
     "Assets/MGMT 35200 - Gibbs Spring 2026 13JAN2026.pdf",
     "Clubs/Momentum/Supply Chain Project",
     "Clubs/AKP/Brother Interviews",

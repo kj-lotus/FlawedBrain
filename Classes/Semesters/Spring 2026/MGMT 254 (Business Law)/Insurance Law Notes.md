@@ -430,7 +430,7 @@ Homeowners insurance typically covers three categories:
 - Younger people more likely to die from accidents than natural causes, so double indemnity is more likely to pay for them than for older individuals.   
     
 - Exclusions: high‑risk activities such as piloting a private plane, skydiving, suicide, etc., often excluded.   
-    
+	
 
 ## D. Incontestability clause
 
@@ -466,9 +466,3 @@ Homeowners insurance typically covers three categories:
     - Death benefits (paid to estate or beneficiaries, not to deceased worker).
 
 
----
-# 4/16 notes
-
-### Renter Insurance
-- Covers all Personal Property
-	- 
