@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Insurance Law Notes"
             }
+          },
+          {
+            "id": "23a705361a1b5d60",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
           }
         ]
       }
@@ -197,11 +207,12 @@
   },
   "active": "04c7fc2a178ead19",
   "lastOpenFiles": [
-    "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Business Law Syllabus.md",
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Strategic Management Syllabus.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Insurance Law Notes.md",
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Strategic Management Final Presentation.md",
+    "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Business Law Syllabus.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer_Game_Guide.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Loss Function.md",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Strategic Management Final Presentation.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Improving Processes.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Demand rate and Flow time.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Bullwhip Effect.md",
@@ -213,7 +224,6 @@
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/AirBNB - Cost leadership vs Differentiation.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Operations Syllabus.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Prompting sequence.md",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Strategic Management Syllabus.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Claude Response.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Questions.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project",
