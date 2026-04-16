@@ -464,3 +464,11 @@ Homeowners insurance typically covers three categories:
     - Short‑term or long‑term disability payments.
         
     - Death benefits (paid to estate or beneficiaries, not to deceased worker).
+
+
+---
+# 4/16 notes
+
+### Renter Insurance
+- Covers all Personal Property
+	- 
