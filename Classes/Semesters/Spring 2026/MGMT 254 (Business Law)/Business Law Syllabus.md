@@ -11,3 +11,4 @@ Classes
 3/26 [[Real Property Notes]]
 [[Bankruptcy Law]]
 [[Land Use Controls]]
+[[Insurance Law Notes]]
