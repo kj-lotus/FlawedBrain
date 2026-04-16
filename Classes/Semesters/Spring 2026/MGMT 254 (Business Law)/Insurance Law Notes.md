@@ -466,3 +466,4 @@ Homeowners insurance typically covers three categories:
     - Death benefits (paid to estate or beneficiaries, not to deceased worker).
 
 
+---

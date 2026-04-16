@@ -50,7 +50,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "byCreatedTimeReverse",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -205,6 +205,11 @@
   },
   "active": "04c7fc2a178ead19",
   "lastOpenFiles": [
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Notes for mgmt 352 final exam.md",
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Batching and Setup.md",
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/batch setup exercise.md",
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/2.20 - exercise.md",
+    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Vertical Integration & Diversification.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Insurance Law Notes.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Business Law Syllabus.md",
     "Classes/Semesters/Spring 2026/Spring 2026 Classes.md",
@@ -226,7 +231,6 @@
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Claude Response.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Questions.md",
     "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/Vertical Integration & Diversification.md",
     "Assets/Pasted image 20260302131100.png",
     "Assets/Pasted image 20260304125532.png",
     "Assets/Pasted image 20260304125959.png",
@@ -239,10 +243,6 @@
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Line Balancing.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Discounts.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Control Charts (x bar, r chart).md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Class 1.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Capacity and cycle time.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Batching and Setup.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/batch setup exercise.md",
     "Assets/MGMT 35200 - Gibbs Spring 2026 13JAN2026.pdf",
     "Clubs/Momentum/Supply Chain Project",
     "Clubs/AKP/Brother Interviews",
