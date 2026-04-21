@@ -13,4 +13,5 @@ Classes
 [[Land Use Controls]]
 [[Insurance Law Notes]]
 [[Regulation of Employment]]
+[[Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Agency Notes]]
 [[Agency Notes]]
