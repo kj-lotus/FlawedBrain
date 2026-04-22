@@ -89,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "edc53133a9189b2d",
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Supply Chain 1.md",
+                "file": "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Agency Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Supply Chain 1"
+              "title": "Backlinks for Agency Notes"
             }
           },
           {
@@ -186,12 +186,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 563.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -203,7 +202,8 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "terminal:Open terminal": false
     }
   },
   "active": "04196a5741312fdb",
