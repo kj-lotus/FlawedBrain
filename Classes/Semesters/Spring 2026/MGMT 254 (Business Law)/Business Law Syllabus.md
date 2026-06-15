@@ -16,3 +16,4 @@ Classes
 [[Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Agency Notes]]
 [[Agency Notes]]
 [[employment law notes]]
+[[agency law]]
