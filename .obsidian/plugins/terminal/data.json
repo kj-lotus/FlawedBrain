@@ -140,7 +140,7 @@
     },
     "win32IntegratedDefault": {
       "args": [],
-      "executable": "C:\\Windows\\System32\\cmd.exe",
+      "executable": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
       "followTheme": true,
       "name": "",
       "platforms": {
@@ -161,7 +161,7 @@
       "useWin32Conhost": true
     }
   },
-  "defaultProfile": null,
+  "defaultProfile": "win32IntegratedDefault",
   "terminalOptions": {
     "documentOverride": null
   }

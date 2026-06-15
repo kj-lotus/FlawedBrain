@@ -71,5 +71,19 @@ Gantt Chart
 				Same thing, 5 boxes out of the 8 boxes from start till new customer
 			M3 = 100%
 				They are always working there are no gaps 4 boxes are filled and theres only 4 boxes till
+IN CLASS EXERCISE
+
+
+
+| Resource | Capacity |
+| -------- | -------- |
+| A        | 120      |
+| oven     | 240      |
+| B        | 180      |
+| C        | 180      |
+| D+E      | 160      |
+Bottle neck : Worker A
+Process Capacity = 120 sub / hr
+Design Cycle Time = 1/process Capacity = 60/120 = 0.5 min per sub
 
 
