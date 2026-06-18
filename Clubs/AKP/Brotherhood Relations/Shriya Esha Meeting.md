@@ -16,4 +16,4 @@ Collab field day - ktp
 Thought things would go smooth
 	- plan retreat well in advance
 	- check dates with other committees
-	- 
+Interaction between rushees / brothers
