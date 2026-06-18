@@ -5,6 +5,11 @@ Time commitment
 	- 2 hours for a few days 
 	- grind it out
 Poker tourney
+	- send best player from group
+	- not actual money - gamble house points
+	- most points gets award 
+	- individual incentive
+	- 
 take weather advantage
 akp pickleball
 Collab field day - ktp 
