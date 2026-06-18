@@ -8,3 +8,7 @@ Poker tourney
 take weather advantage
 akp pickleball
 Collab field day - ktp 
+Thought things would go smooth
+	- plan retreat well in advance
+	- check dates with other committees
+	- 
