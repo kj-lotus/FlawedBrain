@@ -14,4 +14,4 @@
 - communicate problems early on
 - reply within 24 hrs
 - See what work can get delegated
-- 
+- bring older engagement - hotdogs
