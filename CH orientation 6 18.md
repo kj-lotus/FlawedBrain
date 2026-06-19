@@ -4,4 +4,10 @@
 - Weekly Chapter updates
 - meet weekly with VP
 - 3 1:1 with EVP
-- 
+- Slide etiquette
+	- no hotdogs
+	- add appropriate pictures
+	- Content
+		- things brothers should know about
+		- forms - dont overload
+		- 
