@@ -15,3 +15,6 @@
 - reply within 24 hrs
 - See what work can get delegated
 - bring older engagement - hotdogs
+	- anisha said - everybody should know me
+		- stephen - role mdel
+		- setup situations 
