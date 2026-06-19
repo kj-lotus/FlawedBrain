@@ -11,4 +11,4 @@
 		- things brothers should know about
 		- forms - dont overload
 		- Developments
-		- 
+- communicate problems early on
