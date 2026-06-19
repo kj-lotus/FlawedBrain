@@ -1,0 +1,7 @@
+- Treat as Internship
+	- come in with agenda
+	- come out with clear and time bound actions points
+- Weekly Chapter updates
+- meet weekly with VP
+- 3 1:1 with EVP
+- 

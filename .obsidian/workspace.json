@@ -48,9 +48,23 @@
               "icon": "lucide-file",
               "title": "Shriya Esha Meeting"
             }
+          },
+          {
+            "id": "0b462adf0aafef12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CH orientation 6 18.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CH orientation 6 18"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -225,10 +239,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "2c7d8a64ce12d810",
+  "active": "0b462adf0aafef12",
   "lastOpenFiles": [
-    "Clubs/AKP/AKP HUB.md",
     "Clubs/AKP/Brotherhood Relations/Shriya Esha Meeting.md",
+    "CH orientation 6 18.md",
+    "Clubs/AKP/AKP HUB.md",
     "Clubs/AKP/Brotherhood Relations/Aarya Iyer 1 on 1 6.16.md",
     "Clubs/AKP/Brotherhood Relations",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Capacity and cycle time.md",
@@ -254,7 +269,6 @@
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Law Class 3.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Real Property Notes.md",
     "Assets/Pasted image 20260327124139.png.md",
-    "Classes/Semesters/Spring 2026/MGMT 352 (Strategic)/352 final project/Air bnb Cost dif pt 2.md",
     "Assets/27-Supply Chain Coordination_Print.pptx",
     "Assets/AIRBNB.pdf",
     "Assets/Pasted image 20260413123635.png",
