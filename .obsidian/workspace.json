@@ -13,40 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clubs/AKP/AKP HUB.md",
+                "file": "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Bullwhip Effect.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AKP HUB"
+              "title": "Bullwhip Effect"
             }
           },
           {
-            "id": "2ab36236ede003e9",
+            "id": "f2c8ff4f3a4da1df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clubs/AKP/AKP HUB.md",
+                "file": "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer_Game_Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AKP HUB"
-            }
-          },
-          {
-            "id": "2c7d8a64ce12d810",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clubs/AKP/Brotherhood Relations/Shriya Esha Meeting.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shriya Esha Meeting"
+              "title": "Beer_Game_Guide"
             }
           },
           {
@@ -55,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CH orientation 6 18.md",
+                "file": "Clubs/AKP/Brotherhood Relations/CH orientation 6 18.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,11 +225,15 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0b462adf0aafef12",
+  "active": "f2c8ff4f3a4da1df",
   "lastOpenFiles": [
-    "Clubs/AKP/Brotherhood Relations/Shriya Esha Meeting.md",
-    "CH orientation 6 18.md",
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Bullwhip Effect.md",
+    "Clubs/AKP/Brotherhood Relations/Brotherhood Relations Hub.md",
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer Game Intro.md",
+    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer_Game_Guide.md",
     "Clubs/AKP/AKP HUB.md",
+    "Clubs/AKP/Brotherhood Relations/CH orientation 6 18.md",
+    "Clubs/AKP/Brotherhood Relations/Shriya Esha Meeting.md",
     "Clubs/AKP/Brotherhood Relations/Aarya Iyer 1 on 1 6.16.md",
     "Clubs/AKP/Brotherhood Relations",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Capacity and cycle time.md",
@@ -258,7 +248,6 @@
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Insurance Law Notes.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Discounts.md",
     "Clubs/Momentum/Supply Chain Project/Phase 4.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer_Game_Guide.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Multi Server Queue.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Waiting Time Reduction.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Line Balancing.md",
@@ -266,9 +255,6 @@
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Batching and Setup.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Operations Syllabus.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Supply Chain 1.md",
-    "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Law Class 3.md",
-    "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Real Property Notes.md",
-    "Assets/Pasted image 20260327124139.png.md",
     "Assets/27-Supply Chain Coordination_Print.pptx",
     "Assets/AIRBNB.pdf",
     "Assets/Pasted image 20260413123635.png",
