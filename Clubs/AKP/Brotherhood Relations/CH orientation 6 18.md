@@ -17,4 +17,4 @@
 - bring older engagement - hotdogs
 	- anisha said - everybody should know me
 		- stephen - role mdel
-		- setup situations 
+		- setup situations for more conv
