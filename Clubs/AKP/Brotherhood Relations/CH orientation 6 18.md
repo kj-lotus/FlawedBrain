@@ -18,3 +18,8 @@
 	- anisha said - everybody should know me
 		- stephen - role mdel
 		- setup situations for more conv
+- Harry potter challenge
+	- dont wanna do anything too complicated
+	- seniors checked ou
+	- make it easy
+	- clash tourney
