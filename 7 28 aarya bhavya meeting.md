@@ -2,3 +2,5 @@
 	 - Pool houses for weekly challenges and point rush
 - Integrate points with rest of chapter events
 - Update brother list with new brother name major etc
+- dinner before chapter every other week
+- build out calendar for entire semester with deadlines and events so we have a vision
