@@ -1,0 +1,3 @@
+ - add sniped with the house points
+	 - Pool houses for weekly challenges and point rush
+- Integrate points with rest of chapter events
