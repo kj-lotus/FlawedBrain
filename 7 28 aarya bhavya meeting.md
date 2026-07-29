@@ -1,3 +1,4 @@
  - add sniped with the house points
 	 - Pool houses for weekly challenges and point rush
 - Integrate points with rest of chapter events
+- Update brother list with new brother name major etc
