@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "7 28 aarya bhavya meeting.md",
+                "file": "Clubs/AKP/AKP HUB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7 28 aarya bhavya meeting"
+              "title": "AKP HUB"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -239,17 +239,18 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "111d079078fa9ea7",
+  "active": "62b3ffb2bffee726",
   "lastOpenFiles": [
-    "7 28 aarya bhavya meeting.md",
-    "Venya meeting 8 19.md",
+    "Clubs/Club Hub.md",
     "Clubs/AKP/Brotherhood Relations/Brotherhood Relations Hub.md",
     "Clubs/AKP/Brotherhood Relations/CH orientation 6 18.md",
+    "Clubs/AKP/Brotherhood Relations/Shriya Esha Meeting.md",
+    "Clubs/AKP/AKP HUB.md",
+    "7 28 aarya bhavya meeting.md",
+    "Venya meeting 8 19.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer_Game_Guide.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Bullwhip Effect.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer Game Intro.md",
-    "Clubs/AKP/AKP HUB.md",
-    "Clubs/AKP/Brotherhood Relations/Shriya Esha Meeting.md",
     "Clubs/AKP/Brotherhood Relations/Aarya Iyer 1 on 1 6.16.md",
     "Clubs/AKP/Brotherhood Relations",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Capacity and cycle time.md",
@@ -268,7 +269,6 @@
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Waiting Time Reduction.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Line Balancing.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Contract law 2.17.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Batching and Setup.md",
     "Assets/27-Supply Chain Coordination_Print.pptx",
     "Assets/AIRBNB.pdf",
     "Assets/Pasted image 20260413123635.png",
