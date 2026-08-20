@@ -25,10 +25,14 @@
             "id": "e02255d787e9443c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OBHR 330"
             }
           }
         ],
@@ -211,6 +215,7 @@
   },
   "active": "e02255d787e9443c",
   "lastOpenFiles": [
+    "Assets/Syllabus - Fall 2026 FAL 2026 - OB330 - Merge.pdf",
     "Classes/Semesters/Fall 2027/Fall 2026 Classes.md",
     "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
     "Untitled/desktop.ini",
