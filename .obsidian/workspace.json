@@ -46,6 +46,18 @@
             }
           },
           {
+            "id": "9829f882f1f49a5b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
+            }
+          },
+          {
             "id": "111d079078fa9ea7",
             "type": "leaf",
             "state": {
@@ -60,7 +72,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -80,7 +92,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -235,7 +249,7 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "62b3ffb2bffee726",
+  "active": "9829f882f1f49a5b",
   "lastOpenFiles": [
     "Clubs/AKP/AKP HUB.md",
     "Clubs/Club Hub.md",
