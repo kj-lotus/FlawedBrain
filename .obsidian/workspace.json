@@ -23,16 +23,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Semesters/Fall 2027/QM 306/QM 306.md",
+                "file": "Classes/Semesters/Fall 2027/MIS 382/MIS 382.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QM 306"
+              "title": "MIS 382"
+            }
+          },
+          {
+            "id": "f02362d346c3c3fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Class 1 - 382.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Class 1 - 382"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,8 +223,10 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "e02255d787e9443c",
+  "active": "f02362d346c3c3fa",
   "lastOpenFiles": [
+    "Classes/Semesters/Fall 2027/MIS 382/MIS 382.md",
+    "Class 1 - 382.md",
     "Classes/Semesters/Fall 2027/QM 306/QM 306.md",
     "Assets/F26 - QM 306 - Course Syllabus - Alexander.docx",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Operations Syllabus.md",
@@ -232,7 +248,6 @@
     "Classes/Semesters/Fall 2027/SCOM 46501",
     "Classes/Semesters/Fall 2027/ECON 301",
     "Classes/Semesters/Fall 2027/DSB 255/DSB 255.md",
-    "Classes/Semesters/Fall 2027/MIS 382/MIS 382.md",
     "Classes/Semesters/Fall 2027/SCOM 46501/SCOM 46501.md",
     "Clubs/Club Hub.md",
     "Clubs/AKP/Brotherhood Relations/7 28 aarya bhavya meeting.md",
