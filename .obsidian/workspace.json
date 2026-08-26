@@ -8,16 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "afb79c8e8d3df8ce",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
             "id": "e02255d787e9443c",
             "type": "leaf",
             "state": {
@@ -43,6 +33,16 @@
               },
               "icon": "lucide-file",
               "title": "Class 1 - 382"
+            }
+          },
+          {
+            "id": "a81843d6d0be47e7",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ],
@@ -223,11 +223,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "f02362d346c3c3fa",
+  "active": "a81843d6d0be47e7",
   "lastOpenFiles": [
-    "Assets/Pasted image 20260826123426.png",
     "Classes/Semesters/Fall 2027/MIS 382/MIS 382.md",
+    "Classes/Semesters/Fall 2027/ECON 301/ECON 301.md",
     "Class 1 - 382.md",
+    "Assets/Pasted image 20260826123426.png",
     "Classes/Semesters/Fall 2027/QM 306/QM 306.md",
     "Assets/F26 - QM 306 - Course Syllabus - Alexander.docx",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Operations Syllabus.md",
@@ -236,7 +237,6 @@
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Class 1.md",
     "Classes/Semesters/Spring 2026/Spring 2026 Classes.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Beer_Game_Guide.md",
-    "Classes/Semesters/Fall 2027/ECON 301/ECON 301.md",
     "Classes/Semesters/Fall 2027/Fall 2026 Classes.md",
     "Assets/Syllabus - Fall 2026 ECON 30100-002 LEC.pdf",
     "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
@@ -269,7 +269,6 @@
     "Assets/Pasted image 20260304130022.png",
     "Assets/Pasted image 20260304130004.png",
     "Assets/Pasted image 20260304130016.png",
-    "Assets/Pasted image 20260304130352.png",
-    "Assets/Pasted image 20260304130709.png"
+    "Assets/Pasted image 20260304130352.png"
   ]
 }
