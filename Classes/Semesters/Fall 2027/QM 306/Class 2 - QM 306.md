@@ -13,3 +13,5 @@
 	Capacities, demand, budget, time,  
 	materials, legal requirements, scientific  
 	facts, etc
+
+## Label constraints
