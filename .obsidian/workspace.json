@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -223,12 +223,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0bcbbe4481afb0f1",
+  "active": "98542365dc91b41c",
   "lastOpenFiles": [
+    "Assets/Pasted image 20260828135707.png",
+    "Classes/Semesters/Fall 2027/QM 306/Class 2 - QM 306.md",
+    "Classes/Semesters/Fall 2027/DSB 255/Wells Fargo & Facebook.md",
     "Classes/Semesters/Fall 2027/DSB 255/DSB 255.md",
     "Assets/WL-Fall-2026-DSB-(WL)-25500-009-Found-Of-Business-Ethics.pdf",
-    "Classes/Semesters/Fall 2027/DSB 255/Wells Fargo & Facebook.md",
-    "Classes/Semesters/Fall 2027/QM 306/Class 2 - QM 306.md",
     "Classes/Semesters/Fall 2027/QM 306/QM 306.md",
     "Classes/Semesters/Fall 2027/MIS 382/Class 2 - 382.md",
     "Classes/Semesters/Fall 2027/MIS 382/MIS 382.md",
