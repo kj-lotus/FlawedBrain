@@ -6,4 +6,6 @@ Map - Diagnose - Redesign
 	- Transformation is the process
 - Input - Raw Materials
 - Output - Finished good (added value)
-- 
+- Littles LAW
+### Procure to Pay P2P
+![[Pasted image 20260901153809.png]]
