@@ -9,3 +9,6 @@ Map - Diagnose - Redesign
 - Littles LAW
 ### Procure to Pay P2P
 ![[Pasted image 20260901153809.png]]
+
+# So What
+
