@@ -1,2 +1,2 @@
-MAP - Diagnose - Redesign
+Map - Diagnose - Redesign
 
