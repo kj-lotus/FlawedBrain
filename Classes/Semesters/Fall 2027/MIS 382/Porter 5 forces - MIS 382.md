@@ -65,3 +65,18 @@ Relatively concentrated supplier group (e.g. operating systems)
 	• What other dimensions are there?  
 	• Does it matter if we compete in the same one?  
 	• Positive-sum vs. zero-sum
+
+# Summary
+• Each of the five forces tends to degrade profitability. Hence, we would like to play  
+someplace where, on balance, the five forces are low  
+	• What is low?  
+	• Which forces matter the most?  
+• So what do we do with our assessment of the five forces?  
+	• How attractive is this industry vs. others?  
+	• Should we consider changing where we play?  
+• The competitive landscape is dynamic. Hence, analysis of competitive forces is an  
+ongoing task  
+	• Technological changes  
+	• Policy developments  
+	• Changes in industry structure  
+	• Consider the future: anticipate, adapt, alter  
