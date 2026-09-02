@@ -54,3 +54,48 @@
 4. **Diversity management**: This is the practice of creating an inclusive environment that values and utilizes the diverse talents and perspectives of all employees. It involves strategies and policies to promote diversity and inclusion within an organization.
     
 5. **Deep-level diversity**: This involves differences in values, personality, work preferences, and other non-visible traits. These differences become more apparent as people get to know each other better and can significantly impact team dynamics and performance.
+6. **Neurodiversity**: This term refers to the idea that variations in brain functioning, such as autism or ADHD, are part of natural human diversity. It emphasizes that these differences should be recognized and respected as a part of the human experience, rather than being seen as disorders.
+    
+7. **Gender Identity**: This is about an individual's personal sense of their own gender, which may or may not correspond with the sex they were assigned at birth. It includes identities such as male, female, transgender, non-binary, and others.
+    
+8. **Deep-level Diversity**: This refers to differences in values, beliefs, and attitudes among individuals. Unlike surface-level diversity, which includes observable characteristics like race or gender, deep-level diversity involves more complex and less visible attributes.
+    
+9. **Lookism**: This is a form of discrimination or prejudice based on a person's physical appearance. It involves favoring individuals who are considered more attractive according to societal standards.
+    
+10. **Demographic Characteristics**: These are the statistical characteristics of populations, such as age, race, gender, income, education, and employment. They are often used in research and policy-making to understand and address social issues.
+## 2.2 Prejudice and Discrimination in Organizations
+
+- **Prejudice and discrimination in the workplace negatively impact organizational effectiveness** by creating unfair barriers for certain groups and limiting access to opportunities.
+- **Prejudice refers to preconceived opinions or attitudes** about individuals based on their group membership, which can lead to biased decision-making and treatment.
+- **Discrimination involves actions or behaviors** that result from prejudice, such as denying promotions, hiring, or equal treatment to individuals because of their identity (e.g., race, gender, age).
+- **These behaviors undermine inclusion and diversity efforts** by reducing morale, increasing turnover, and preventing organizations from fully utilizing the talents and perspectives of all employees.
+- **Eliminating prejudice and discrimination is essential** for organizations to benefit from diversity and foster a more effective, innovative, and equitable workplace.
+
+## Prejudice and Implicit Bias
+
+- **Prejudice can be explicit (conscious) or implicit (unconscious)**, and it involves generalized attitudes toward groups that reinforce social hierarchies.
+- **Prejudice is not always negative**; benevolent prejudice includes seemingly positive but still stereotypical views, such as seeing Asians as a "model minority" or women as inherently kind and in need of protection. These generalizations, even if favorable, are problematic and should be questioned.
+- **Implicit bias refers to unconscious prejudices that individuals may not be aware of.** The Implicit Association Test (IAT) is used to measure these biases by tracking response times to different group-attribute pairings.
+- Implicit bias can be influenced by social environments; exposure to diversity in larger, integrated communities is associated with lower implicit bias.
+- Implicit bias is difficult to eliminate; while training can temporarily reduce bias, its effects are often short-lived, as shown in studies with police officers.
+- Artificial intelligence systems can inherit human biases if trained on biased data, but proactive measures like "blind taste tests" can help reduce AI bias.
+
+## Discrimination, Disparate Impact, and Treatment
+
+- **Discrimination involves actions or behaviors that create, maintain, or reinforce advantages for some groups over others, often based on prejudicial attitudes.** This can include both overt actions like harassment and more covert behaviors such as incivility or exclusion.
+- **Disparate impact refers to employment practices that unintentionally disadvantage a legally protected group, even if the practices appear neutral.** For example, using structured interviews or tests in hiring may unintentionally discriminate against certain groups, despite being designed to predict job performance.
+- **Disparate treatment is intentional discrimination, where employment practices are deliberately designed to disadvantage a protected group.** This includes direct actions like mockery, insults, or harassment.
+- **Legal protections such as Title VII of the Civil Rights Act of 1964 and the Age Discrimination in Employment Act (ADEA) prohibit discrimination based on race, ethnicity, gender identity, religion, national origin, and age (40 or older).** Organizations must avoid both disparate impact and disparate treatment to comply with these laws.
+- **Discrimination leads to negative outcomes for employees, including increased stress, feelings of injustice, negative job attitudes, and poor health.** For employers, consequences include reduced productivity, higher turnover, more workplace conflict, and financial losses.
+- **Research shows that discrimination in promotion decisions, such as women being 15% less likely to be promoted among mortgage officers, harms both organizational performance and opportunities for qualified individuals.**
+- **Confronting prejudice can improve job satisfaction and relationships for marginalized employees.** However, as legal protections have increased, discrimination has become more subtle, with practices like using social media in hiring potentially leading to unintentional bias and disparate impact.
+
+## Subtle Discrimination
+
+- Discrimination manifests in various forms, both overt and subtle, and its effects depend on organizational context and individual biases.
+- Black and Hispanic individuals are disproportionately subjected to police stops, searches, and arrests, and Black defendants face higher prosecution rates, illustrating systemic discrimination.
+- Subtle forms of discrimination, such as exclusion, incivility, and microaggressions, are difficult to detect and address because they can be informal and unintentional, with bystander effects making intervention less likely.
+- Microaggressions are automatic, subtle exchanges that negatively affect marginalized groups, but their definition can be subjective, as what offends one person may go unnoticed by another.
+- Both overt and subtle discrimination undermine diversity and inclusion, with subtle discrimination and microaggressions potentially being as harmful as overt acts, impacting job satisfaction and health outcomes.
+- Awareness and sensitivity to assumptions based on demographics and identity are crucial; it is important not to dismiss others’ thoughts and feelings.
+- Reducing prejudice and discrimination and increasing diversity are essential for effective diversity management and organizational improvement.
