@@ -88,3 +88,15 @@ ongoing task
 	• Cost Focus  
 	• Benefit Leadership (i.e. Differentiation)  
 	• Benefit Focus
+
+# Sources of competitive advantage
+• Cost Leadership (economies of scale; efficient production)  
+• Differentiation (innovation; quality; features; service)  
+• Innovation (new products, services, features; new processes, strategies, business  
+models)  
+• Brand Equity (recognition; value; loyalty)  
+• Operational Excellence (→cost leadership; customer satisfaction)  
+• Technology (→cost leadership;→innovation;→differentiation)  
+• Exclusive Access to Resources (raw materials; talent; tech; distribution)  
+• Strategic Partnerships (→exclusive access;→technology;→differentiation)  
+• Regulatory Advantage (→exclusive access; limits on competition)
