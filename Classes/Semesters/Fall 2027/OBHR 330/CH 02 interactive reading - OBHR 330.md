@@ -43,3 +43,14 @@
 - **A significant portion of LGBTQ+ employees do not disclose their identity at work**, experiencing higher rates of discrimination; disclosure is associated with improved well-being and job satisfaction.
 - **Inclusive policies benefit both employees and organizations**, with companies like Apple leading in providing comprehensive benefits and support for diverse identities, and recognizing the economic impact of the LGBTQ+ consumer base.
 - **Diversity in age, disability, race, ethnicity, sexual orientation, and gender identity shapes workplace behaviors and preferences**, making it essential for organizations to address discrimination and promote inclusion, while also being aware that increased diversity can sometimes lead to more discriminatory practices.
+
+## Types of Diversity
+1. **Surface-level diversity**: This refers to differences that are easily observable, such as gender, age, race, and physical abilities. These characteristics are often visible and can be identified quickly.
+    
+2. **Demographic diversity**: This includes characteristics such as age, gender, race, ethnicity, and other demographic factors. It often overlaps with surface-level diversity.
+    
+3. **Race/Ethnicity**: This type of diversity focuses on the cultural, historical, and social differences among people from different racial and ethnic backgrounds.
+    
+4. **Diversity management**: This is the practice of creating an inclusive environment that values and utilizes the diverse talents and perspectives of all employees. It involves strategies and policies to promote diversity and inclusion within an organization.
+    
+5. **Deep-level diversity**: This involves differences in values, personality, work preferences, and other non-visible traits. These differences become more apparent as people get to know each other better and can significantly impact team dynamics and performance.
