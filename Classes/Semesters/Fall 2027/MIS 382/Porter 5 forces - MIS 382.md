@@ -44,7 +44,7 @@ Relatively concentrated supplier group (e.g. operating systems)
 
 • Sources of substitutes  
 	• Similar function, different means (e.g. Zoom vs. physical travel)  - during covid zoom became substitute product for transportation as it allows you to "be" with people wherever whenever 
-	• Outside options (e.g. used goods, DIY service, abstention) - 
+	• Outside options (e.g. used goods, DIY service, abstention) - services prices increase so instead you learn how to do it yourself - instead of taking car to shop you fix yourself.
 • Drivers of threat  
 	• Attractive price-performance trade-off (e.g. electric lawn mowers)  
 	• Low cost for buyer to switch to substitute
