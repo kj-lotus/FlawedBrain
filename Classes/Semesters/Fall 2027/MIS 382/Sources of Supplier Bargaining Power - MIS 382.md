@@ -22,7 +22,18 @@
 
 # Sources of buyer bargaining power
 • Few buyers and/or large-volume buyers (e.g. aircraft)  
-	- 
+	- Sellers are at mercy of the buyers since they can back out of deals messing up financials of seller
 • Standardized products  
-• Low buyer switching costs  
+	- Buyer - i don't like your price I am going to buy someone elses stuff because it is all the same standard
+• Low buyer switching costs 
+	- if 
 • Credible threat of backward integration (e.g. soft drink packaging)
+	- idea that if you are producing something and you are selling product to someone and they don't want to do business with you, you can integrate downstream and competing directly with them.
+• Price sensitivity also contributes to buyer bargaining power  
+	- if power company decided to up power cost - you cant say no - you are price inelastic- so sellers can put higher prices and in turn buyers are at mercy
+• Factors contributing to price sensitivity  
+	• Low buyer profits / small buyer budgets  
+	• Product is a significant fraction of budget  
+• Factors mitigating price sensitivity  
+	• Product has a complementary or additive effect on buyers’ offerings  
+	• Product tends to reduce buyers’ other costs or enhance efficiency
