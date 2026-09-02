@@ -1,4 +1,4 @@
-## Understanding Diversity
+## 2.1 Understanding Diversity
 
 - **Workplace diversity has two major forms: surface-level diversity and deep-level diversity.**
 - Surface-level diversity refers to observable differences among people, such as age, disability, gender identity, sexual orientation, race, ethnicity, and culture.
