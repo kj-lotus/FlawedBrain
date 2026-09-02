@@ -100,3 +100,60 @@
 - Awareness and sensitivity to assumptions based on demographics and identity are crucial; it is important not to dismiss others’ thoughts and feelings.
 - Reducing prejudice and discrimination and increasing diversity are essential for effective diversity management and organizational improvement.
 
+## 2.3 Theoretical Perspectives on Prejudice, Discrimination, and Diversity
+
+- **Social categorization** explains how you tend to classify people into groups based on observable characteristics, which can influence perceptions, interactions, and group dynamics in the workplace.
+- **Stereotyping, stereotype threat, and stigma** highlight how preconceived notions about groups can shape expectations and behaviors, potentially leading to bias, discrimination, and negative outcomes for those who are stereotyped or stigmatized.
+- **Intersectionality** emphasizes that individuals possess multiple, overlapping identities (such as race, gender, and class), and these intersecting identities can create unique experiences and challenges related to diversity in organizational settings.
+
+## Social Categorization
+
+- **Biographical characteristics, while objective (like age), also have subjective and perceptual aspects**; people interpret these characteristics through their own cognitive processes.
+- **Heuristics, or mental shortcuts, help people process large amounts of information**, but can also lead to biased judgments about others.
+- **Social categorization is the process of grouping people based on shared characteristics**, which helps individuals make sense of social environments but can result in unfair generalizations.
+- **Noticing differences between people is necessary for decisions like hiring and promotions**, but problems arise when individuals assume everyone in a group is the same without considering individual traits.
+- **Social categorization fosters group identities, leading to distinctions between "us" (ingroup) and "them" (outgroup)**, which can result in ingroup favoritism and outgroup derogation.
+- **These processes can fragment work groups and teams**, as people form subgroups with those similar to themselves, potentially lowering team performance.
+- **Social categorization can cause false inferences and misclassification of individuals**, contributing to stereotypes and prejudicial thinking that hinder diversity and inclusion in workplaces.
+
+## Stereotyping, Stereotype Threat, and Stigma
+
+- **Stereotyping involves categorizing individuals based on superficial or demographic characteristics, which can lead to prejudice and discrimination in organizations.** For example, gender stereotypes may influence hiring decisions, favoring men for roles seen as "male-dominated."
+- **Stereotype threat is the concern or fear of being judged or treated negatively based on a stereotype about one's group.** This threat can cause individuals to unconsciously exaggerate stereotypes, engage in self-handicapping, overcompensate, or experience reduced cognitive performance ("brain drain"), leading to underperformance, disengagement, and poor job attitudes.
+- **Stereotype threat can negatively impact various workplace situations, including preemployment tests, performance evaluations, and daily interactions.** It can result in reluctance to seek feedback and overall poorer performance.
+- **Reducing stereotype threat in organizations involves treating employees as individuals, increasing awareness of stereotypes, using objective assessments, confronting microaggressions, creating mentorship programs, and adopting transparent, inclusive practices.**
+- **Stigma refers to concealable, devalued attributes or identities that may not be immediately visible but can lead to prejudice if discovered.** Examples include gender identity and sexual orientation, which some employees may feel compelled to hide due to fear of negative repercussions.
+- **Disclosure of stigmatized identities is complex and context-dependent, but research suggests that disclosure can lead to better interpersonal, work, health, and family outcomes for certain stigmas.** Concealment often reduces positive emotions and increases negative ones, while authentic expression can foster support and reduce ostracism.
+- **Leaders play a critical role in reducing stigma by sharing their own experiences and fostering a culture of openness, especially regarding mental health and other stigmatized issues.** This leadership can inspire others to seek help and reduce feelings of shame.
+
+## Toward a Better World
+
+- **Restorative justice in employment focuses on giving individuals with prior criminal records a second chance, emphasizing redemption, forgiveness, and reintegration into the workplace.**
+- Hot Chicken Takeover employs at least 70% "restored citizens," demonstrating that second-chance hiring can result in dedicated and motivated employees.
+- Public attitudes have shifted, with 78% of Americans comfortable interacting with workers who have nonviolent records, and 82% of executives reporting restored citizen hires are as successful as those without records.
+- Gainful employment significantly reduces the likelihood of recidivism among people with previous records or incarcerations.
+- The First Step Act (2018) and organizations like SHRM support job training and hiring initiatives for restored citizens, reflecting growing institutional and governmental backing.
+- Despite progress, stigma remains, and individuals with records often face extra scrutiny and must manage impressions during interviews.
+- Restorative justice aligns with DEI (Diversity, Equity, and Inclusion) strategies by diversifying the workforce, increasing equity, and fostering inclusion.
+- Managers must critically evaluate each hiring decision, considering the type of crime, job requirements, timing, and frequency of offenses to assess risk appropriately.
+- Legal and cultural contexts matter: In the U.S., EEOC guidelines prohibit discrimination against applicants with records from underrepresented groups, while some countries (e.g., Australia, France, Germany, UK) have "spent" record laws that limit employer inquiries about minor, old convictions.
+- Second-chance hiring practices contribute to organizational DEI goals and help individuals with prior records become valued, productive members of society.
+
+## System Justification and Social Dominance
+
+- **System justification theory explains why individuals may accept or legitimize inequality, prejudice, and discrimination within groups or organizations.** People often rationalize negative experiences as normal or deserved, influenced by beliefs in a just world, the desire to reduce cognitive dissonance, and the difficulty of challenging authority.
+- **System justification is more likely when individuals feel low personal control, perceive the situation as unchangeable, or feel dependent on the system.** Gratitude or fear of jeopardizing relationships with the system can reinforce acceptance of inequality.
+- **Awareness of systemic barriers can sometimes increase acceptance of those barriers, but focusing attention on the restrictive nature of inequality can disrupt system-justifying thought patterns.**
+- **Social dominance theory posits that prejudice and discrimination are rooted in group-based hierarchies, where dominant groups maintain privileges over subordinate groups.** Social dominance orientation (SDO) measures the extent to which individuals support and desire these hierarchies.
+- **Individuals with high SDO are more likely to hold prejudicial beliefs, discriminate against others, and legitimize inequality to justify their own privileged status.** Increased diversity can be perceived as a threat by those with high SDO, leading to more prejudice and discrimination.
+- **In organizational contexts, high-SDO applicants prefer organizations with similar high-status individuals and avoid diverse organizations.** High-SDO managers are less likely to hire from low-status groups and judge their performance more harshly, especially if they perceive these individuals as receiving special treatment.
+- **Both system justification and social dominance orientation influence discriminatory behaviors and attitudes in the workplace, affecting hiring, evaluation, and organizational diversity.**
+
+## Intersectionality
+
+- **Intersectionality explains how multiple aspects of identity (such as race and gender) interact to create unique experiences and challenges for individuals, especially in organizational settings.**
+- The concept emerged from real-world cases, such as the 1976 lawsuit by five Black women against General Motors, where the court failed to recognize the compounded discrimination faced due to both race and gender.
+- **Intersectionality highlights that social categories alone (like race or gender separately) are insufficient to fully understand individuals’ experiences or contributions in organizations.**
+- **Changing demographics in the U.S. (with half the population projected to be people of color by 2044) make intersectionality increasingly relevant for understanding workplace diversity.**
+- Research shows that women of color often face unique barriers, such as being mistaken for one another or being stereotyped, which can prevent fair and objective evaluation of their accomplishments.
+- **Double jeopardy refers to the enhanced negative effects experienced by individuals with multiple stigmatized identities, emphasizing the need for managers to be aware and sensitive to these dynamics.**
