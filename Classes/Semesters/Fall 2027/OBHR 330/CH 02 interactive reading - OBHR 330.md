@@ -157,3 +157,30 @@
 - **Changing demographics in the U.S. (with half the population projected to be people of color by 2044) make intersectionality increasingly relevant for understanding workplace diversity.**
 - Research shows that women of color often face unique barriers, such as being mistaken for one another or being stereotyped, which can prevent fair and objective evaluation of their accomplishments.
 - **Double jeopardy refers to the enhanced negative effects experienced by individuals with multiple stigmatized identities, emphasizing the need for managers to be aware and sensitive to these dynamics.**
+
+## 2.4 Diversity Dynamics
+
+- Diversity influences interactions between people in organizations, affecting both workers and managers.
+- Discrimination can result in negative organizational outcomes, while diversity can lead to positive outcomes.
+- Group composition and fault lines are important concepts for understanding how diversity impacts behavior within groups and teams in the workplace.
+- The way a group is composed and the presence of fault lines (divisions within a group based on demographic or other differences) shape how diversity affects group dynamics and interactions.
+
+## Group Composition
+
+- Groups and teams are naturally diverse, and people tend to form higher-quality, trust-based relationships when they can choose their own groupings.
+- There is only a modest connection between actual diversity and how diverse group members perceive their group to be; perceived dissimilarity and underrepresentation can lead to negative outcomes for individuals.
+- Surface-level diversity (such as differences in biographical backgrounds) often increases group conflict, lowers morale, and raises turnover, especially early in a group's formation, due to differing understandings of tasks, norms, and goals.
+- Deep-level diversity (differences in values or opinions) can also increase conflict, but effective leadership that focuses the group on tasks and encourages learning can reduce these conflicts and improve group discussions.
+- Mixing people with different needs for power can reduce unproductive competition, while grouping those with similar achievement needs can boost task performance; however, varying levels of trust within a group can increase conflict and erode trust further.
+- Functional diversity (differences in skills and expertise) can enhance team performance and innovation, especially by promoting knowledge sharing, and is particularly beneficial in competitive environments.
+- Diversity in groups can help avoid conformity, encourage longer deliberation, more information sharing, and reduce factual errors, but diverse groups are also more fragile, prone to fragmentation, and tend to become more similar over time.
+
+## Fault Lines
+
+- **Fault lines** are perceived divisions within teams that split members into subgroups based on surface-level differences like gender, race, age, work experience, language, and education.
+- Fault lines generally harm group functioning and performance by causing competition between subgroups, slowing learning, increasing risk-taking, reducing creativity, and raising conflict levels.
+- Subgroups often experience high internal satisfaction, but overall group satisfaction decreases when fault lines are present due to reduced trust and cohesion between subgroups.
+- Fault lines based on skill, knowledge, and expertise can be beneficial in results-driven cultures or decision-making bodies, as focus shifts to organizational goals rather than subgroup differences.
+- Addressing fault lines effectively involves crosscutting roles, setting common goals, recruiting individuals with similar characteristics within diverse groups, and encouraging forced collaboration to boost performance.
+- Pro-diversity beliefs, open-mindedness norms, and diversity training help reduce the negative effects of fault lines and improve group outcomes.
+- Organizational policies and practices that welcome and value diversity foster better idea exchange and team performance, and over time, diverse groups can become more open-minded, creative, and effective.
