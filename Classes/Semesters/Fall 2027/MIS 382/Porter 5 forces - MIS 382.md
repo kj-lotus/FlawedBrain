@@ -1,4 +1,6 @@
-• Relatively concentrated supplier group (e.g. operating systems)  
+# Sources of Supplier Bargaining Power
+
+Relatively concentrated supplier group (e.g. operating systems)  
 - When only a few suppliers control a market, buyers have fewer alternatives to switch to
 - This lack of options gives suppliers more leverage to set prices, terms, or quality standards
 - Example: Windows/macOS dominate the OS market, so hardware makers have limited bargaining room against Microsoft or Apple
@@ -35,5 +37,14 @@
 	• Low buyer profits / small buyer budgets  
 	• Product is a significant fraction of budget  
 • Factors mitigating price sensitivity  
-	• Product has a complementary or additive effect on buyers’ offerings  
+	• Product has a complementary or additive effect on buyers’ offerings - like bus tickets - you cant stop using the bus if you need to go to work, you cant just walk
 	• Product tends to reduce buyers’ other costs or enhance efficiency
+
+# Threat of Substitutes
+
+• Sources of substitutes  
+	• Similar function, different means (e.g. Zoom vs. physical travel)  - during covid zoom became substitute product for transportation as it allows you to "be" with people wherever whenever 
+	• Outside options (e.g. used goods, DIY service, abstention) - 
+• Drivers of threat  
+	• Attractive price-performance trade-off (e.g. electric lawn mowers)  
+	• Low cost for buyer to switch to substitute
