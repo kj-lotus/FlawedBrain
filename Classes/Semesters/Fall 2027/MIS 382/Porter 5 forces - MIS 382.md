@@ -80,3 +80,11 @@ ongoing task
 	• Policy developments  
 	• Changes in industry structure  
 	• Consider the future: anticipate, adapt, alter  
+
+# Porters generic strategies
+• Competitive Advantage: whatever enables you to outperform rivals  
+• Porter’s Generic Strategies → generalized answers to how to win  
+	• Cost Leadership  
+	• Cost Focus  
+	• Benefit Leadership (i.e. Differentiation)  
+	• Benefit Focus
