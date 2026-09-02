@@ -172,7 +172,7 @@
 - Surface-level diversity (such as differences in biographical backgrounds) often increases group conflict, lowers morale, and raises turnover, especially early in a group's formation, due to differing understandings of tasks, norms, and goals.
 - Deep-level diversity (differences in values or opinions) can also increase conflict, but effective leadership that focuses the group on tasks and encourages learning can reduce these conflicts and improve group discussions.
 - Mixing people with different needs for power can reduce unproductive competition, while grouping those with similar achievement needs can boost task performance; however, varying levels of trust within a group can increase conflict and erode trust further.
-- Functional diversity (differences in skills and expertise) can enhance team performance and innovation, especially by promoting knowledge sharing, and is particularly beneficial in competitive environments.
+- **Functional diversity (differences in skills and expertise)** can enhance team performance and innovation, especially by promoting knowledge sharing, and is particularly beneficial in competitive environments.
 - Diversity in groups can help avoid conformity, encourage longer deliberation, more information sharing, and reduce factual errors, but diverse groups are also more fragile, prone to fragmentation, and tend to become more similar over time.
 
 ## Fault Lines
@@ -184,3 +184,41 @@
 - Addressing fault lines effectively involves crosscutting roles, setting common goals, recruiting individuals with similar characteristics within diverse groups, and encouraging forced collaboration to boost performance.
 - Pro-diversity beliefs, open-mindedness norms, and diversity training help reduce the negative effects of fault lines and improve group outcomes.
 - Organizational policies and practices that welcome and value diversity foster better idea exchange and team performance, and over time, diverse groups can become more open-minded, creative, and effective.
+
+## 2.5 Cross-Cultural Organizational Behavior (OB)
+
+- **Cultural identity and norms significantly influence organizational behavior**, as individuals define themselves by race, ethnicity, and cultural heritage, which shapes their values and workplace interactions.
+- **Cultural norms can lead to workplace clashes or feelings of alienation**, especially when individuals choose to observe their cultural practices to varying degrees, impacting team dynamics and communication.
+- **Expatriates face unique challenges in international assignments** due to differences in cultural norms, which can determine their success or failure in adapting to new environments.
+- **Cultural values are learned and transmitted across generations**, leading to diverse expressions of behavior in organizations.
+- **Two major frameworks for understanding cultural value differences are Hofstede’s model and the GLOBE studies**, both of which help analyze how cultural values impact organizational behavior globally.
+
+## Hofstede’s Framework
+
+- **Hofstede identified five key dimensions of national culture**: power distance, individualism versus collectivism, masculinity versus femininity, uncertainty avoidance, and long-term versus short-term orientation.
+- **Power distance** measures how much inequality in power and wealth is accepted within a society; high power distance cultures tolerate large inequalities, while low power distance cultures emphasize equality and opportunity.
+- **Individualism versus collectivism** distinguishes cultures where people prioritize individual rights and independence (individualism) from those where group loyalty and protection are emphasized (collectivism).
+- **Masculinity versus femininity** reflects whether a culture values traditional masculine roles (achievement, power, control, assertiveness, materialism) and differentiates gender roles (masculinity), or treats men and women as equals with little role differentiation (femininity).
+- **Uncertainty avoidance** describes the extent to which people prefer structured, predictable situations over ambiguity and unstructured environments.
+- **Long-term versus short-term orientation** contrasts cultures that focus on future preparation, thrift, and persistence (long-term) with those that emphasize tradition, fulfilling social obligations, and maintaining social image (short-term).
+- **Indulgence versus restraint** is a newer dimension, distinguishing cultures that encourage enjoying life and having fun (indulgence) from those that regulate behavior through strict social norms (restraint); this dimension is linked to prosocial behaviors.
+- **Country examples illustrate these dimensions**: Malaysia scores highest in power distance, the United States is the most individualistic, Guatemala is the most collectivistic, Japan ranks highest in masculinity, Sweden in femininity, Greece in uncertainty avoidance, Singapore in low uncertainty avoidance, Hong Kong in long-term orientation, and Pakistan in short-term orientation.
+- **Research shows that all five original dimensions are strong predictors of organizational outcomes**, but it is important to recognize that not all individuals within a country share the same values.
+
+## The GLOBE Framework
+
+- GLOBE and Hofstede frameworks both identify key cultural dimensions that influence leadership and organizational behavior, with GLOBE expanding and refining Hofstede’s original dimensions.
+- GLOBE’s nine dimensions include power distance, uncertainty avoidance, future orientation, institutional collectivism, ingroup collectivism, gender egalitarianism, assertiveness, humane orientation, and performance orientation, offering more nuanced distinctions such as splitting collectivism and masculinity into narrower categories.
+- Both frameworks show that organizational commitment is lower in individualistic cultures, and understanding these cultural values is crucial for effective multinational teamwork and projects.
+- Examples include Asian countries like South Korea, where collectivist values foster team-based approaches, emphasizing group success over individual achievement.
+- GLOBE introduces humane orientation (valuing altruism and kindness) and performance orientation (valuing excellence and productivity), which are not explicitly present in Hofstede’s model.
+- **Key relationships:** Power distance and uncertainty avoidance are present in both models, but GLOBE defines uncertainty avoidance as seeking orderliness and structure; masculinity in Hofstede is divided into gender egalitarianism and assertiveness in GLOBE.
+
+## Faith and Religion
+
+- **Religion significantly influences workplace culture** and can create employment issues when beliefs affect behaviors.
+- Many countries, such as Australia, the United Kingdom, and the United States, have laws prohibiting religious discrimination in employment.
+- Employers are required to provide reasonable accommodations for employees’ religious practices, similar to accommodations for disabilities in the United States.
+- Legal cases, such as a Catholic woman receiving a large settlement after being denied a religious exemption to a vaccine mandate, illustrate the importance and complexity of religious accommodation.
+- **Religious discrimination claims are** increasing in the United States due to the complex interplay between religion, nationality, and ethnic identity.
+- **Religion does not always align with nationality or ethnicity**; for example, India has a large Muslim population despite being majority Hindu, and most Israelis are not religiously observant even though Israel is a Jewish state.
