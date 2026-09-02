@@ -99,3 +99,4 @@
 - Both overt and subtle discrimination undermine diversity and inclusion, with subtle discrimination and microaggressions potentially being as harmful as overt acts, impacting job satisfaction and health outcomes.
 - Awareness and sensitivity to assumptions based on demographics and identity are crucial; it is important not to dismiss others’ thoughts and feelings.
 - Reducing prejudice and discrimination and increasing diversity are essential for effective diversity management and organizational improvement.
+
