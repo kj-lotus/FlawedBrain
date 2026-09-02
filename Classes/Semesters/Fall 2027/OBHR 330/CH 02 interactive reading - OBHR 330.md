@@ -281,3 +281,27 @@
 - **Diversity initiatives can have paradoxical effects**; while appointing underrepresented individuals to leadership can legitimize diversity, it may also expose them to tokenization, increased pressure, or stereotype threat, potentially leading to negative outcomes.
 - **External context and societal norms impact organizational diversity efforts**; factors such as regional culture, gender norms, institutional structures, and government policies can either support or undermine internal diversity management practices.
 - **Prioritizing diversity and inclusion benefits organizations** by promoting justice, fairness, improved job attitudes, well-being, and job performance, highlighting the importance of ongoing education and skill development in diversity management for all organizational members.
+  
+  ## Summary
+Diversity management is a major societal challenge. Theorists, researchers, and practitioners in various fields are doing their part to understand how people can make organizations more diverse, and how inclusive environments can work. Workforce diversity is manifested at different levels, including surface-level diversity and deep-level diversity. Although people can be characterized in many ways, a number of biographical characteristics are relevant to the workplace, including race/ethnicity, age, disability, and gender identity/sexual orientation. Prejudice and discrimination in organizations are two primary nefarious outcomes that result from intolerance for diversity. Theories from a number of fields have influenced how we think about diversity in organizations. These include categorization, studies of stereotyping, and intersectionality. This theoretical basis serves as a foundation for understanding how certain diversity elements (e.g., group composition and fault lines) affect group and team dynamics. At a higher level, cultural values and norms, religion, and cross-cultural aspects of organizational life also influence diversity. Diversity management must be an ongoing commitment to prioritizing creation of a diverse and inclusive workplace that extends across all levels of the organization.
+
+## Implications for Managers
+- Strive to be aware of and sensitive to the complex implications of diversity in your organization.
+    
+- Assess and challenge your own beliefs, prejudices, and stereotypes to increase your awareness of bias.
+    
+- Take efforts to root out illegal, discriminatory practices in your organization, both overt and subtle.
+    
+- Look beyond readily observable biographical characteristics and consider individuals’ capabilities before making management decisions.
+    
+- Educate your colleagues, subordinates, and others about both the ethical and business cases for diversity to increase buy-in of diversity management.
+    
+- Identify the potential impact of diversity dynamics in your groups and teams and be mindful of them when administering assessments, building teams, and resolving conflict.
+    
+- The more you understand and consider differences between cultural values, norms, and identities, the better you will be able to adapt to and manage cross-cultural dynamics in your organization.
+    
+- Implement evidence-based best practices when developing your organization’s diversity management initiatives, focusing on diversity, equity, and inclusion.
+    
+- Strive to develop a diverse culture and climate in which employees feel that diversity and inclusion are valued and put into practice and feel safe to contribute as their authentic selves.
+    
+- Know that diversity management may not be successful right away. There are many barriers to its effectiveness, some avoidable (e.g., lack of authenticity and tokenism) and some unavoidable (e.g., systemic bias, the organization’s cultural context).
