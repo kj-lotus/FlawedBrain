@@ -48,3 +48,20 @@ Relatively concentrated supplier group (e.g. operating systems)
 • Drivers of threat  
 	• Attractive price-performance trade-off (e.g. electric lawn mowers)  
 	• Low cost for buyer to switch to substitute
+
+# Rivalry among existing competitors
+• Intensity of Competition  
+	• Numerous and/or roughly equal in size  
+	• Slow industry growth  
+	• High exit barriers  
+	• High business commitment  
+• Dimension(s) of Competition  
+	• Price  
+		• Low differentiation and switching costs  
+		• High fixed costs and low marginal costs  
+		• Large capacity expansions  
+		• Perishability  
+• Non-price  
+	• What other dimensions are there?  
+	• Does it matter if we compete in the same one?  
+	• Positive-sum vs. zero-sum
