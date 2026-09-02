@@ -53,7 +53,7 @@ Relatively concentrated supplier group (e.g. operating systems)
 • Intensity of Competition  
 	• Numerous and/or roughly equal in size  
 	• Slow industry growth  
-	• High exit barriers  
+	• High exit barriers  - legal or contractional obligations - cant just decide to leave mkt
 	• High business commitment  
 • Dimension(s) of Competition  
 	• Price  
