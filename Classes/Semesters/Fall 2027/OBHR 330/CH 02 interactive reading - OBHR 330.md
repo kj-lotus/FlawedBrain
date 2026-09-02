@@ -221,4 +221,63 @@
 - Employers are required to provide reasonable accommodations for employees’ religious practices, similar to accommodations for disabilities in the United States.
 - Legal cases, such as a Catholic woman receiving a large settlement after being denied a religious exemption to a vaccine mandate, illustrate the importance and complexity of religious accommodation.
 - **Religious discrimination claims are** increasing in the United States due to the complex interplay between religion, nationality, and ethnic identity.
-- **Religion does not always align with nationality or ethnicity**; for example, India has a large Muslim population despite being majority Hindu, and most Israelis are not religiously observant even though Israel is a Jewish state.
+- **Religion does not always align with nationality or ethnicity**; for example, India has a large Muslim population despite being majority Hindu, and most Israelis are not religiously observant even though Israel is a Jewish state
+
+## 2.6 Implementing Diversity Management
+
+- **Diversity management** uses evidence-based strategies to leverage workforce differences, aiming to increase diversity, foster inclusion, and ensure fair treatment in all employment decisions.
+- Efforts include celebrating differences, enhancing representation of diverse groups, and creating an inclusive organizational culture.
+- **Equity** focuses on providing equal access to opportunities for all workers, reducing prejudice and discrimination, and engaging with diverse communities through education, coalition-building, and critique of unjust practices.
+- The **Equal Employment Opportunity Commission (EEOC)** was established in the U.S. to enforce fair treatment in employment, regardless of protected characteristics.
+- **Affirmative action** involves good-faith efforts to recruit, select, and train qualified people from underrepresented groups, not quotas, to enhance representation and fairness.
+- Emphasizing both **equity and merit**—a multicultural meritocracy—can reduce stereotyping and discrimination while increasing engagement for all employees.
+- Affirmative action remains controversial, especially after recent Supreme Court rulings, requiring managers to ethically balance workforce diversity initiatives with organizational goals.
+
+## Ethical Choice
+
+- **DEI (Diversity, Equity, and Inclusion) initiatives face both internal and external resistance**, including criticism from employees and external groups such as politicians and think tanks. For example, Costco has been pressured to evaluate the financial risks of its DEI policies but maintains its commitment based on its ethical code.
+- **Supporters view DEI as an ethical obligation**, while critics argue that these initiatives are unethical and represent a redistribution of opportunities based on race and sex.
+- **Internal resistance to DEI often stems from psychological and moral threats**; organizational change can be stressful, and acknowledging privilege may threaten individuals’ moral self-image, especially for those who value equality.
+- **Reframing DEI initiatives as opportunities for employees to express universal moral ideals like fairness and equality** can reduce resistance by preventing majority group members from feeling automatically associated with discrimination or privilege.
+- **Understanding the causes of resistance and employing targeted strategies** is essential for organizations to overcome challenges and advance DEI efforts effectively.
+
+## Theoretical Basis of Diversity Management
+
+- **The common ingroup identity model reduces prejudice by shifting focus from group differences ("us" vs. "them") to shared identities ("we"), fostering unity and inclusion.** For example, creating a common identity between citizens and immigrants has been shown to reduce racism, increase positive attitudes, and encourage supportive actions toward immigrants.
+- **Emphasizing commonality can decrease implicit bias, as demonstrated by lower bias scores on the Implicit Association Test (IAT) after interventions.** However, overemphasizing unity may unintentionally minimize the importance of diverse identities and undermine efforts to address inequality.
+- **The contact hypothesis asserts that increased interaction between people from different backgrounds leads to reduced prejudice and discrimination over time.** Studies, such as those involving mixed-religion soccer teams, show that direct contact fosters more positive attitudes between groups.
+- **Contact does not have to be direct or physical; virtual, imagined, or indirect contact can also reduce prejudice and promote inclusion.** For instance, even if you do not interact with another group, your attitudes can improve if your peers do.
+- **The effectiveness of contact-based interventions can be influenced by context and individual differences.** Negative initial interactions, high social dominance orientation, environments with strong power hierarchies, or high stress can limit the benefits of contact and may even reinforce prejudice.
+- **Despite challenges, intergroup contact remains a promising strategy for reducing bias in organizations.** For example, imagined contact has led hiring managers to view transgender applicants more favorably, and interracial contact among medical residents has reduced both explicit and implicit biases.
+
+## Diversity Management Practices
+
+- **Diversity management practices are linked to improved organizational performance**, such as competitive advantage and financial outcomes, when integrated into core business strategies. These practices can increase representation, buffer against discrimination, and positively impact return on investment (ROI).
+- **Managerial communication about diversity initiatives is crucial**; emphasizing organizational continuity while implementing diversity changes reassures employees. Focusing solely on preventing exclusion (legal compliance) can undermine efforts to promote true inclusion (psychological safety and belonging).
+- **Effective diversity management requires tailored strategies** that address the unique needs of all stakeholders (workers, managers, customers, industry), rather than a one-size-fits-all approach or relying only on awareness without action.
+- **Leaders play four key roles in diversity leadership**: advocating for diversity as a resource, promoting positive intergroup interactions, stimulating cross-background discussions, and encouraging ongoing reflection on diversity practices and goals.
+- **Promoting inclusion involves leaders demonstrating humility, authenticity, and self-awareness**, supporting all workers’ belongingness, including them in decision-making, and valuing their unique contributions.
+- **Managers must clearly communicate expectations and policies**, confront prejudice and discrimination directly, encourage reporting, and remove hidden barriers to advancement, even when these actions carry personal risk.
+- **Targeted recruitment enhances workforce diversity** by reaching underrepresented groups through specialized advertising, partnerships with educational institutions, and professional associations. Highlighting a commitment to diversity in recruiting materials attracts more diverse applicants.
+- **Blind hiring can reduce bias in applicant screening**, but its effectiveness varies by context; in some cases, it increases advancement for disadvantaged groups, while in others, it may reduce their chances of being hired.
+- **Diversity training typically covers legal frameworks, the business value of diversity, and personal development**, and is generally effective at increasing knowledge, representation, and reducing discrimination. However, training must be tailored to organizational needs and supported by opportunities for practical application.
+- **Goal setting during diversity training increases motivation and application of learned skills**, especially when supported by real opportunities for cross-group interactions.
+- **Mentorship programs support diversity and inclusion goals**, though participants often prefer mentors with similar backgrounds. Despite this, mentorship can foster personal and career growth for underrepresented employees.
+
+## Creating an Inclusive Work Culture
+
+- **Inclusion means creating an environment where everyone feels valued, welcomed, and able to contribute**, ensuring all employees have a voice and are involved in decisions that affect them.
+- **Inclusion is distinct from diversity**; diversity is about representation, while inclusion is about active participation and belonging, as illustrated by the quote: “Diversity is being invited to the party. Inclusion is being asked to dance.”
+- **Managers must go beyond simply implementing diversity programs**; the effectiveness of diversity management depends on the organization’s culture and climate, which shape shared perceptions of diversity and inclusion.
+- **A diversity culture prioritizes and values diversity and inclusion**, embedding these principles into organizational goals and practices, such as linking increased representation to performance bonuses (e.g., Intel’s approach).
+- **A diversity climate reflects employees’ shared awareness that policies and procedures support diversity and inclusion**, ensuring equal access and participation for all.
+- **Best practices for inclusion involve empowering employees and encouraging their input**, such as through employee resource groups (ERGs), which foster belonging and are present in 90% of Fortune 500 companies.
+- **Positive diversity climates reduce prejudice and discrimination, enhance representation, and promote inclusion**, leading to benefits like improved financial performance, customer satisfaction, employee commitment, retention, and reduced negative effects of workplace divisions.
+
+## The Challenge of Diversity Management
+
+- **Authenticity is crucial in diversity management**—leaders must genuinely commit to diversity and inclusion, as insincere or inconsistent efforts can damage credibility and reduce perceptions of inclusion.
+- **Tokenism undermines diversity efforts**; superficial actions like hiring a minimal number of underrepresented individuals to appear diverse (e.g., "twokenism" on corporate boards) can harm those individuals and be seen as inauthentic by both employees and the public.
+- **Diversity initiatives can have paradoxical effects**; while appointing underrepresented individuals to leadership can legitimize diversity, it may also expose them to tokenization, increased pressure, or stereotype threat, potentially leading to negative outcomes.
+- **External context and societal norms impact organizational diversity efforts**; factors such as regional culture, gender norms, institutional structures, and government policies can either support or undermine internal diversity management practices.
+- **Prioritizing diversity and inclusion benefits organizations** by promoting justice, fairness, improved job attitudes, well-being, and job performance, highlighting the importance of ongoing education and skill development in diversity management for all organizational members.
