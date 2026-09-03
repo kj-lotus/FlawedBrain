@@ -12,11 +12,11 @@
 
 ## The Economics — Why iPhone Still Matters
 
-||2015|2019|
-|---|---|---|
-|iPhone share of revenue|66%|55%|
-|Services share of revenue|9%|18%|
-|Wearables/home/accessories|4%|9%|
+| Metric                     | 2015 | 2019 |
+| -------------------------- | ---- | ---- |
+| iPhone share of revenue    | 66%  | 55%  |
+| Services share of revenue  | 9%   | 18%  |
+| Wearables/home/accessories | 4%   | 9%   |
 
 - Services gross margin: **64%**
 - Product gross margin: **32%**
@@ -130,7 +130,12 @@ Supporting capabilities: low inventory · launch coordination · quality discipl
 
 ## Working Capital Reveals the Economics
 
-
+| Metric                       | Apple     | Walmart | Amazon |
+| ---------------------------- | --------- | ------- | ------ |
+| Inventory turns              | 39.4×     | 8.9×    | 8.1×   |
+| Days inventory               | 9.3       | 41.1    | 45.2   |
+| Cash conversion cycle (days) | **-62.9** | +2.0    | -27.9  |
+| ROE                          | **61.1%** | 18.6%   | 18.7%  |
 
 **Discuss:** Apple holds very little inventory and pays suppliers much later than it collects cash—but these ratios reflect the whole business model, not supply chain alone.
 
@@ -202,10 +207,10 @@ Supporting capabilities: low inventory · launch coordination · quality discipl
 
 ## Build Resilience Selectively (Criticality × Substitutability Matrix)
 
-||Low criticality|High criticality|
+| Substitutability | Low criticality | High criticality |
 |---|---|---|
-|**Low substitutability (easy to replace)**|Standardize / market buy — commodity items; price competition, standards, capacity options|Strategic partnership — critical but replaceable; long-term capacity, co-investment, joint process improvement|
-|**High substitutability (hard to replace)**|Buffer / qualify backup — difficult-to-replace but lower strategic impact; safety stock, tooling portability, qualified alternate|Own / dual-source / redundancy — critical + difficult to replace; vertical integration, dual source, geographic redundancy|
+| **Low substitutability (easy to replace)** | Standardize / market buy — commodity items; price competition, standards, capacity options | Strategic partnership — critical but replaceable; long-term capacity, co-investment, joint process improvement |
+| **High substitutability (hard to replace)** | Buffer / qualify backup — difficult-to-replace but lower strategic impact; safety stock, tooling portability, qualified alternate | Own / dual-source / redundancy — critical + difficult to replace; vertical integration, dual source, geographic redundancy |
 
 **Design principles:** don't diversify every node · price resilience where disruption value is highest · preserve concentration where scale is the advantage · re-evaluate criticality as tech/markets evolve
 
@@ -225,10 +230,10 @@ Supporting capabilities: low inventory · launch coordination · quality discipl
 
 ## Final Synthesis — Dynamic Strategic Fit
 
-||Apple|Walmart|Amazon|
+| Dimension | Apple | Walmart | Amazon |
 |---|---|---|---|
-|Model|Premium ecosystem|EDLP + omnichannel scale|Selection + convenience + speed|
-|Core capability|Launch orchestration + quality + strategic control|Stable replenishment + throughput + cost discipline|Demand pooling + dense fulfillment + marketplace orchestration|
-|Evolution challenge|Maturity requires selective efficiency + resilience|Must remain responsive as channels shift|Must control the cost of responsiveness|
+| Model | Premium ecosystem | EDLP + omnichannel scale | Selection + convenience + speed |
+| Core capability | Launch orchestration + quality + strategic control | Stable replenishment + throughput + cost discipline | Demand pooling + dense fulfillment + marketplace orchestration |
+| Evolution challenge | Maturity requires selective efficiency + resilience | Must remain responsive as channels shift | Must control the cost of responsiveness |
 
 > No universal "best" supply chain — only fit with the customer promise. Compare the systems, not isolated metrics.
