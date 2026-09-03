@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Semesters/Fall 2027/ECON 301/ECON 301.md",
+                "file": "Classes/Semesters/Fall 2027/OBHR 330/CH 02 interactive reading - OBHR 330.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ECON 301"
+              "title": "CH 02 interactive reading - OBHR 330"
             }
           },
           {
@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Apple Supply Chain in class - SCOM 465.md",
+                "file": "Classes/Semesters/Fall 2027/SCOM 46501/SCOM 46501.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Apple Supply Chain in class - SCOM 465"
+              "title": "SCOM 46501"
             }
           },
           {
@@ -239,7 +239,8 @@
   },
   "active": "c6a82b262ee2c8bd",
   "lastOpenFiles": [
-    "Apple Supply Chain in class - SCOM 465.md",
+    "Classes/Semesters/Fall 2027/SCOM 46501/Apple Supply Chain in class - SCOM 465.md",
+    "Classes/Semesters/Fall 2027/OBHR 330/CH 02 interactive reading - OBHR 330.md",
     "Classes/Semesters/Fall 2027/SCOM 46501/Apple Supply Chain pre class - SCOM 465.md",
     "Classes/Semesters/Fall 2027/ECON 301/ECON 301.md",
     "class 5 qm 306.md",
@@ -249,7 +250,6 @@
     "Classes/Semesters/Fall 2027/SCOM 46501/SCOM 46501.md",
     "Classes/Semesters/Fall 2027/QM 306/QM 306.md",
     "Classes/Semesters/Fall 2027/QM 306/Class 2 - QM 306.md",
-    "Classes/Semesters/Fall 2027/OBHR 330/CH 02 interactive reading - OBHR 330.md",
     "Untitled.canvas",
     "Classes/Semesters/Fall 2027/MIS 382/MIS 382.md",
     "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
