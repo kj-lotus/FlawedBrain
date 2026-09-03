@@ -60,8 +60,6 @@
 5. Technology dependence (Apple internalizing outside tech, e.g. chips)
 6. Business-model expansion (wearables/services need different supplier ecosystems)
 
-## **My top 2:** _(fill in once you've picked your ranking + case fact for each)_
-
 ---
 
 ## Metrics to Pull From Case Exhibits
