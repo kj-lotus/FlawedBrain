@@ -56,3 +56,53 @@
 - How secrecy and compartmentalization inside a company can hide fraud from almost everyone, including senior staff.
 - The courage of the whistleblowers, especially young, low level employees like Cheung and Shultz, who had the most to lose.
 - The gap between the myth of Holmes as the next Steve Jobs and the reality of a product that endangered patients.
+  
+## Discussion Talking Points and Speaking Scripts
+
+### Ambition and Fraud
+
+- Medical stakes, not just money
+- Belief versus deception
+- Fraud sustained for years
+
+**Script:** What makes this different from a normal startup failure is that Theranos wasn't just losing investor money, it was giving people actual medical results that could be wrong. Holmes claimed she believed the tech would eventually work, but that doesn't really hold up when you realize they were secretly running tests on competitors' machines while telling everyone their own device was doing it. That's not naive optimism, that's active deception, and it went on for over a decade, which tells you this wasn't one bad call, it was a sustained cover up.
+
+### Silicon Valley Culture
+
+- Copied Steve Jobs persona
+- Investors skipped real due diligence
+- Fit the dropout founder myth
+
+**Script:** Holmes basically built a persona around Steve Jobs, the turtleneck, the deep voice, even his habits, and it worked because Silicon Valley already loves that young genius dropout story from people like Jobs and Zuckerberg. Investors handed her hundreds of millions of dollars without doing basic technical verification that the product even worked. It shows how much of venture funding runs on a good narrative and fear of missing out rather than actually checking the facts.
+
+### Board and Oversight
+
+- Famous names, no expertise
+- Prestige over real scrutiny
+- Credibility without accountability
+
+**Script:** The board had people like Henry Kissinger and James Mattis, incredibly accomplished in government and diplomacy, but none of them had the medical or scientific background to actually question the technology. That was probably intentional, since a flashy board gives investors confidence without creating anyone who can ask hard technical questions. It's a good example of prestige being used as a substitute for real oversight.
+
+### Whistleblowers
+
+- Tyler Shultz versus his own grandfather
+- Erika Cheung had less protection
+- Company used legal intimidation
+
+**Script:** Tyler Shultz saw the fraud firsthand and reported it, but his own grandfather George Shultz, who sat on the board, sided with Theranos over him and let company lawyers go after him. Erika Cheung did something similar as a young lab employee with even less power or protection than Shultz had. Both faced surveillance and legal threats, which shows how far a company will go to intimidate people into staying quiet.
+
+### Media and Public Perception
+
+- Celebrated then dissected
+- Voice became a symbol
+- Narrative flipped overnight
+
+**Script:** Before the Wall Street Journal exposé, Holmes was on magazine covers being called the next Steve Jobs, and after it broke, every detail about her got picked apart, especially her voice, which insiders said was fake. It's a good example of how quickly a media narrative can flip once new information comes out, and how something as small as a vocal affectation can end up representing the whole performance she was putting on.
+
+### Accountability and Consequences
+
+- Balwani convicted on all counts
+- Holmes acquitted on patient fraud
+- Abuse allegations complicate the story
+
+**Script:** Sunny Balwani was convicted on all 12 counts against him, while Holmes was only convicted on 4 and was actually acquitted on the charges related to defrauding patients directly. That split verdict says something about how the jury saw her role compared to his. Her allegations that Balwani was abusive during their relationship don't excuse the fraud, but they do add a layer of complexity to how much control she really had while it was happening.
