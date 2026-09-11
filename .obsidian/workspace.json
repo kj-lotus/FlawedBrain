@@ -41,12 +41,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Semesters/Fall 2027/SCOM 46501/SCOM 46501.md",
+                "file": "Classes/Semesters/Fall 2027/DSB 255/Wells Fargo & Facebook.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SCOM 46501"
+              "title": "Wells Fargo & Facebook"
+            }
+          },
+          {
+            "id": "00409dbf98d2f15f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Elizabeth Holmes and Theranos Full Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Elizabeth Holmes and Theranos Full Notes"
             }
           },
           {
@@ -60,7 +74,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -237,8 +251,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "c6a82b262ee2c8bd",
+  "active": "00409dbf98d2f15f",
   "lastOpenFiles": [
+    "Classes/Semesters/Fall 2027/DSB 255/Wells Fargo & Facebook.md",
+    "Elizabeth Holmes and Theranos Full Notes.md",
+    "Classes/Semesters/Fall 2027/DSB 255/DSB 255.md",
+    "Classes/Semesters/Fall 2027/SCOM 46501/SCOM 46501.md",
     "Classes/Semesters/Fall 2027/SCOM 46501/Apple Supply Chain in class - SCOM 465.md",
     "Classes/Semesters/Fall 2027/OBHR 330/CH 02 interactive reading - OBHR 330.md",
     "Classes/Semesters/Fall 2027/SCOM 46501/Apple Supply Chain pre class - SCOM 465.md",
@@ -247,7 +265,6 @@
     "Classes/Semesters/Fall 2027/ECON 301/Producer surplus - Econ 301.md",
     "Assets/Pasted image 20260903121329.png",
     "Classes/Semesters/Fall 2027/MIS 382/Porter 5 forces - MIS 382.md",
-    "Classes/Semesters/Fall 2027/SCOM 46501/SCOM 46501.md",
     "Classes/Semesters/Fall 2027/QM 306/QM 306.md",
     "Classes/Semesters/Fall 2027/QM 306/Class 2 - QM 306.md",
     "Untitled.canvas",
@@ -265,9 +282,6 @@
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Line Balancing.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Discounts.md",
     "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Control Charts (x bar, r chart).md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Processes.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Improving Processes.md",
-    "Classes/Semesters/Spring 2026/MGMT 361 (OP MGMT)/Loss Function.md",
     "Assets/Pasted image 20260828135707.png",
     "Assets/WL-Fall-2026-DSB-(WL)-25500-009-Found-Of-Business-Ethics.pdf",
     "Assets/Pasted image 20260826123426.png",
