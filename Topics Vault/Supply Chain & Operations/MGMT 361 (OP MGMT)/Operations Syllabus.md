@@ -1,0 +1,33 @@
+---
+topic: "Supply Chain & Operations"
+related-topics: []
+source-class: "MGMT 361 (OP MGMT)"
+source-semester: "Spring 2026"
+tags:
+  - topic/ops
+  - class/MGMT-361-OP-MGMT
+---
+
+![[MGMT361 Syllabus Spring 2026_Pengyi.docx]]
+
+Class 1/12: [[Class 1]]
+Class 1/14: [[Processes]]
+Class 1/16: [[Improving Processes]]
+Class 1/21: [[Line Balancing]]
+Class 1/23: [[Capacity and cycle time]]
+Class 1/29: [[Class 6 - Operations]]
+Class 2/2: [[Work in Process (WIP)]]
+Class 2/4: [[Batching and Setup]]
+class 2/9: [[batch setup exercise]]
+Class 2/11 [[Demand rate and Flow time]]
+[[2.20 - exercise]]
+Class 2/23 [[Waiting time]]
+Class 2/25 [[Multi Server Queue]]
+Class 2/27 [[Class 13 - Operations]]
+Class 3/2 [[Waiting Time Reduction]]
+Class 3/4 [[Control Charts (x bar, r chart)]]
+Class 3/27 [[Loss Function]]
+Class 4/3 [[Discounts]]
+4/13 [[Beer Game Intro]]
+4/20 [[Supply Chain 1]]
+[[Beer_Game_Guide]]

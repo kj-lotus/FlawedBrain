@@ -11,6 +11,16 @@
             "id": "0a3545da42b691ee",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "e12a69198c04cc5a",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "Classes/Semesters/Fall 2027/SCOM 46501/Whirlpool Global Procurement Pre Class Quiz Notes.md",
@@ -21,7 +31,8 @@
               "title": "Whirlpool Global Procurement Pre Class Quiz Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,11 +209,11 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "0a3545da42b691ee",
+  "active": "e12a69198c04cc5a",
   "lastOpenFiles": [
+    "Classes/Semesters/Fall 2027/SCOM 46501/Whirlpool Global Procurement Pre Class Quiz Notes.md",
     "Classes/Semesters/Fall 2027/SCOM 46501/SCOM 46501.md",
     "CH 04 Interactive Reading.md",
-    "Classes/Semesters/Fall 2027/SCOM 46501/Whirlpool Global Procurement Pre Class Quiz Notes.md",
     "Classes/Semesters/Fall 2027/MIS 382/Porter 5 forces - MIS 382.md",
     "Classes/Semesters/Fall 2027/MIS 382/Information Systems.md",
     "Classes/Semesters/Fall 2027/MIS 382/MIS 382.md",

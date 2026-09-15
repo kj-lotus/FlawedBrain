@@ -1,0 +1,122 @@
+---
+topic: "Business Strategy & Competitive Advantage"
+related-topics: [Information Systems & Digital Strategy]
+source-class: "MIS 382"
+source-semester: "Fall 2027"
+tags:
+  - topic/strategy
+  - topic/infosys
+  - class/MIS-382
+---
+
+# Sources of Supplier Bargaining Power
+
+Relatively concentrated supplier group (e.g. operating systems)  
+- When only a few suppliers control a market, buyers have fewer alternatives to switch to
+- This lack of options gives suppliers more leverage to set prices, terms, or quality standards
+- Example: Windows/macOS dominate the OS market, so hardware makers have limited bargaining room against Microsoft or Apple
+
+• Suppliers serve many other industries (e.g. advertising)  
+- If a supplier's revenue doesn't depend heavily on one particular industry, they have less incentive to offer favorable terms to keep that industry's business
+- The supplier can walk away from a low-margin buyer relationship without much risk, since they have diverse revenue streams elsewhere
+- Example: An advertising platform (like Google Ads) serves retail, tech, healthcare, etc. — so no single industry can pressure it into discounts, because losing that industry's business barely dents overall revenue
+
+• Switching costs for industry participants  
+	• surgery, software, and aluminum extrusion  
+	• What is lock-in?  
+• Differentiated supplier offerings (e.g. prescription drugs)  
+	- 
+• No substitutes in supply (e.g. pilots)  
+	- no possibility for your to change your supply - have to purchase this item in order to run business
+• Credible threat of forward integration (e.g. content streaming)
+	- idea that if they start asking for high prices - then you buy them out or start company that does what they do
+	- leads to threats into THEIR industry - entrant deterrents etc
+	- basically enter their market and compete with them directly
+
+# Sources of buyer bargaining power
+• Few buyers and/or large-volume buyers (e.g. aircraft)  
+	- Sellers are at mercy of the buyers since they can back out of deals messing up financials of seller
+• Standardized products  
+	- Buyer - i don't like your price I am going to buy someone elses stuff because it is all the same standard
+• Low buyer switching costs 
+	- if 
+• Credible threat of backward integration (e.g. soft drink packaging)
+	- idea that if you are producing something and you are selling product to someone and they don't want to do business with you, you can integrate downstream and competing directly with them.
+• Price sensitivity also contributes to buyer bargaining power  
+	- if power company decided to up power cost - you cant say no - you are price inelastic- so sellers can put higher prices and in turn buyers are at mercy
+• Factors contributing to price sensitivity  
+	• Low buyer profits / small buyer budgets  
+	• Product is a significant fraction of budget  
+• Factors mitigating price sensitivity  
+	• Product has a complementary or additive effect on buyers’ offerings - like bus tickets - you cant stop using the bus if you need to go to work, you cant just walk
+	• Product tends to reduce buyers’ other costs or enhance efficiency
+
+# Threat of Substitutes
+
+• Sources of substitutes  
+	• Similar function, different means (e.g. Zoom vs. physical travel)  - during covid zoom became substitute product for transportation as it allows you to "be" with people wherever whenever 
+	• Outside options (e.g. used goods, DIY service, abstention) - services prices increase so instead you learn how to do it yourself - instead of taking car to shop you fix yourself.
+• Drivers of threat  
+	• Attractive price-performance trade-off (e.g. electric lawn mowers)  
+	• Low cost for buyer to switch to substitute
+
+# Rivalry among existing competitors
+• Intensity of Competition  
+	• Numerous and/or roughly equal in size  
+	• Slow industry growth  
+	• High exit barriers  - legal or contractional obligations - cant just decide to leave mkt
+	• High business commitment  
+• Dimension(s) of Competition  
+	• Price  
+		• Low differentiation and switching costs  
+		• High fixed costs and low marginal costs  
+		• Large capacity expansions  
+		• Perishability  
+• Non-price  
+	• What other dimensions are there?  
+	• Does it matter if we compete in the same one?  
+	• Positive-sum vs. zero-sum
+
+# Summary
+• Each of the five forces tends to degrade profitability. Hence, we would like to play  
+someplace where, on balance, the five forces are low  
+	• What is low?  
+	• Which forces matter the most?  
+• So what do we do with our assessment of the five forces?  
+	• How attractive is this industry vs. others?  
+	• Should we consider changing where we play?  
+• The competitive landscape is dynamic. Hence, analysis of competitive forces is an  
+ongoing task  
+	• Technological changes  
+	• Policy developments  
+	• Changes in industry structure  
+	• Consider the future: anticipate, adapt, alter  
+
+# Porters generic strategies
+• Competitive Advantage: whatever enables you to outperform rivals  
+• Porter’s Generic Strategies → generalized answers to how to win  
+	• Cost Leadership  
+	• Cost Focus  
+	• Benefit Leadership (i.e. Differentiation)  
+	• Benefit Focus
+
+# Sources of competitive advantage
+• Cost Leadership (economies of scale; efficient production)  
+• Differentiation (innovation; quality; features; service)  
+• Innovation (new products, services, features; new processes, strategies, business  
+models)  
+• Brand Equity (recognition; value; loyalty)  
+• Operational Excellence (→cost leadership; customer satisfaction)  
+• Technology (→cost leadership;→innovation;→differentiation)  
+• Exclusive Access to Resources (raw materials; talent; tech; distribution)  
+• Strategic Partnerships (→exclusive access;→technology;→differentiation)  
+• Regulatory Advantage (→exclusive access; limits on competition)
+
+---
+
+## Related Notes
+
+- [[Chapter 6 - Differentiation, Cost Leadership]]
+- [[AirBNB - Cost leadership vs Differentiation]]
+- [[Comparative Advantage + Value]]
+

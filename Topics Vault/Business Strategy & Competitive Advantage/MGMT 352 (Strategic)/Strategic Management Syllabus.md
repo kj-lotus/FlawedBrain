@@ -1,0 +1,26 @@
+---
+topic: "Business Strategy & Competitive Advantage"
+related-topics: []
+source-class: "MGMT 352 (Strategic)"
+source-semester: "Spring 2026"
+tags:
+  - topic/strategy
+  - class/MGMT-352-Strategic
+---
+
+![[MGMT 35200 - Gibbs Spring 2026 13JAN2026.pdf]]
+
+Class 2 1/15: [[Comparative Advantage + Value]]
+Class 3 1/20: [[Counterfactual Thinking]]
+2/17 [[Chapter 6 - Differentiation, Cost Leadership]]
+2/23 [[Innovation]]
+3/2 [[Class 13 - Strategic]]
+3/4 [[Class 14 - Strategic]]
+3/24 [[Vertical Integration & Diversification]]
+[[AirBNB - Cost leadership vs Differentiation]]
+[[Air bnb Cost dif pt 2]]
+[[Notes for mgmt 352 final exam]]
+[[Claude Response]]
+[[Prompting sequence]]
+[[Questions]]
+[[Strategic Management Final Presentation]]
