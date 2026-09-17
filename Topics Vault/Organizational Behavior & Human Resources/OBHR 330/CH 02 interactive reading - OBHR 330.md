@@ -326,5 +326,5 @@ Diversity, in a variety of forms, is vital to the application of OB in the workp
 
 - [[employment law notes]]
 - [[Regulation of Employment]]
-- [[CH 04 Interactive Reading]]
+- [[Classes/Semesters/Fall 2027/OBHR 330/CH 04 Interactive Reading]]
 

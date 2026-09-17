@@ -7,7 +7,7 @@ Diversity, discrimination, emotions and moods at work, from OBHR 330. Heavily cr
 ### OBHR 330
 
 - [[CH 02 interactive reading - OBHR 330]]
-- [[CH 04 Interactive Reading]]
+- [[Classes/Semesters/Fall 2027/OBHR 330/CH 04 Interactive Reading]]
 - [[OBHR 330]]
 
 ---
