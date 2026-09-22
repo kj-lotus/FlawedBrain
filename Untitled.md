@@ -24,7 +24,7 @@ Below, each one is broken down in depth, with the worked examples from lecture e
 
 Every decision maker, whether it is a person or a firm, needs a clearly defined goal before "good decision making" even means anything. You cannot optimize toward a fuzzy target.
 
-For a firm, the assumed goal in this course is:
+For a firm, the assumed goal in this course is:=
 
 > The firm's overall goal is to maximize profit.
 
