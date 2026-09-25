@@ -20,4 +20,4 @@ This graph shows that which each new item produced, the price increases
 
 - [[Types of Costs]]
 - [[Comparative Advantage + Value]]
-
+- [[ECON 301 exam study]]

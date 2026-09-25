@@ -185,4 +185,4 @@ tags:
 
 - [[Porter 5 forces - MIS 382]]
 - [[Apple Supply Chain in class - SCOM 465]]
-
+- [[15.2 Operating Systems]]

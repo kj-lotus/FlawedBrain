@@ -8,4 +8,7 @@ tags:
   - class/ECON-301
 ---
 
+---
 
+## Related Notes
+- [[ECON 301 exam study]]

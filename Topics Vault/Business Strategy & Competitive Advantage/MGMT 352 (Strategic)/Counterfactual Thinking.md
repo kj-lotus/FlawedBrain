@@ -43,4 +43,5 @@ Casual Diagrams
 ## Related Notes
 
 - [[Hypothesis testing]]
-
+- [[ECON 301 exam study]]
+- [[CH 06 Perception and Individual Decision Making]]

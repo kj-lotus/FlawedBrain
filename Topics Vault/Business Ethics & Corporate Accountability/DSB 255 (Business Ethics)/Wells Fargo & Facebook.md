@@ -47,4 +47,5 @@ Both companies illustrate how growth-driven incentive structures, weak internal 
 - [[Elizabeth Holmes and Theranos Full Notes]]
 - [[Regulation of Employment]]
 - [[employment law notes]]
-
+- [[CH 06 Perception and Individual Decision Making]]
+- [[Ch 07 Motivation Concepts]]

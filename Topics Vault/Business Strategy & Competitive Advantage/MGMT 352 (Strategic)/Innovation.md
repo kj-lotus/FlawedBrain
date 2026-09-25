@@ -124,4 +124,5 @@ Strategic implications:
 ## Related Notes
 
 - [[Information Systems]]
-
+- [[15.2 Operating Systems]]
+- [[CH 06 Perception and Individual Decision Making]]

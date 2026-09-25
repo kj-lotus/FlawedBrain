@@ -327,4 +327,5 @@ tags:
 ## Related Notes
 
 - [[CH 02 interactive reading - OBHR 330]]
-
+- [[CH 06 Perception and Individual Decision Making]]
+- [[Ch 07 Motivation Concepts]]

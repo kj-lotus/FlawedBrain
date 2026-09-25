@@ -25,4 +25,4 @@ tags:
 ## Related Notes
 
 - [[Information Systems]]
-
+- [[15.2 Operating Systems]]

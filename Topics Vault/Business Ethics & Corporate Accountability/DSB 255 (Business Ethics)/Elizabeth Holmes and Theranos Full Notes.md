@@ -125,4 +125,4 @@ tags:
 - [[Wells Fargo & Facebook]]
 - [[Agency Notes]]
 - [[agency law]]
-
+- [[CH 06 Perception and Individual Decision Making]]
