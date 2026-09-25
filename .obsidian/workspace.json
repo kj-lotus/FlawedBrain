@@ -11,10 +11,14 @@
             "id": "fee5028c166da7da",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Semesters/Fall 2027/OBHR 330/CH 02 interactive reading - OBHR 330.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CH 02 interactive reading - OBHR 330"
             }
           },
           {
@@ -30,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Ch 07 Motivation Concepts"
             }
+          },
+          {
+            "id": "29f522003f74e69f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OBHR 330"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,10 +227,13 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6aecaf863c9c9992",
+  "active": "29f522003f74e69f",
   "lastOpenFiles": [
-    "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
+    "Classes/Semesters/Fall 2027/OBHR 330/CH03 Job Attitudes.md",
+    "Classes/Semesters/Fall 2027/OBHR 330/CH 02 interactive reading - OBHR 330.md",
+    "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Insurance Law Notes.md",
     "Classes/Semesters/Fall 2027/OBHR 330/Ch 07 Motivation Concepts.md",
+    "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
     "Classes/Semesters/Fall 2027/ECON 301/ECON 301 exam study.md",
     "Untitled.md",
     "Classes/Semesters/Fall 2027/ECON 301/ECON 301.md",
@@ -222,7 +243,6 @@
     "Topics Vault/Home.md",
     "Topics Vault/Supply Chain & Operations/Supply Chain & Operations MOC.md",
     "Classes/Semesters/Fall 2027/OBHR 330/CH 04 Interactive Reading.md",
-    "Classes/Semesters/Fall 2027/OBHR 330/CH 02 interactive reading - OBHR 330.md",
     "Assets/Pasted image 20260327124139.png.md",
     "Topics Vault/Business Strategy & Competitive Advantage/MIS 382/Porter 5 forces - MIS 382.md",
     "Topics Vault/Organizational Behavior & Human Resources/Organizational Behavior & Human Resources MOC.md",
@@ -235,8 +255,6 @@
     "Classes/Semesters/Fall 2027/MIS 382/Information Systems.md",
     "Classes/Semesters/Fall 2027/DSB 255/DSB 255.md",
     "Classes/Semesters/Fall 2027/DSB 255/Elizabeth Holmes and Theranos Full Notes.md",
-    "Classes/Semesters/Fall 2027/DSB 255/Wells Fargo & Facebook.md",
-    "Classes/Semesters/Fall 2027/SCOM 46501/Apple Supply Chain in class - SCOM 465.md",
     "Assets/Pasted image 20260903121329.png",
     "Untitled.canvas",
     "Assets/Pasted image 20260901153809.png",
