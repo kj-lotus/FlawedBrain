@@ -2,3 +2,4 @@
 [[CH 02 interactive reading - OBHR 330]]
 [[Classes/Semesters/Fall 2027/OBHR 330/CH 04 Interactive Reading|CH 04 Interactive Reading]]
 [[CH 06 Perception and Individual Decision Making]]
+[[Ch 07 Motivation Concepts]]
