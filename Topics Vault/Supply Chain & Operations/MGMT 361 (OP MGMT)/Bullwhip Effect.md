@@ -16,4 +16,4 @@ tags:
 
 - [[Beer_Game_Guide]]
 - [[Supply Chain 1]]
-
+- [[Kraljic Matrix EV Example]]

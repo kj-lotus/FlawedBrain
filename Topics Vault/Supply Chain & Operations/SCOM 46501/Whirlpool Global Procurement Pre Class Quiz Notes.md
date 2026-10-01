@@ -101,4 +101,4 @@ Managerial use: a gap between predicted price and actual price can flag a region
 
 - [[Types of Costs]]
 - [[Multi Server Queue]]
-
+- [[Kraljic Matrix EV Example]]

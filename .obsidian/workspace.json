@@ -25,14 +25,10 @@
             "id": "6aecaf863c9c9992",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Classes/Semesters/Fall 2027/OBHR 330/Ch 07 Motivation Concepts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ch 07 Motivation Concepts"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
@@ -41,16 +37,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
+                "file": "Classes/Semesters/Fall 2027/QM 306/QM 306 HW3 Practice Walkthrough.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OBHR 330"
+              "title": "QM 306 HW3 Practice Walkthrough"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,13 +223,14 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "29f522003f74e69f",
+  "active": "6aecaf863c9c9992",
   "lastOpenFiles": [
+    "Classes/Semesters/Fall 2027/OBHR 330/Ch 07 Motivation Concepts.md",
+    "Classes/Semesters/Fall 2027/QM 306/QM 306 HW3 Practice Walkthrough.md",
+    "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
     "Classes/Semesters/Fall 2027/OBHR 330/CH03 Job Attitudes.md",
     "Classes/Semesters/Fall 2027/OBHR 330/CH 02 interactive reading - OBHR 330.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Insurance Law Notes.md",
-    "Classes/Semesters/Fall 2027/OBHR 330/Ch 07 Motivation Concepts.md",
-    "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
     "Classes/Semesters/Fall 2027/ECON 301/ECON 301 exam study.md",
     "Untitled.md",
     "Classes/Semesters/Fall 2027/ECON 301/ECON 301.md",
@@ -254,7 +251,6 @@
     "Classes/Semesters/Fall 2027/MIS 382/Porter 5 forces - MIS 382.md",
     "Classes/Semesters/Fall 2027/MIS 382/Information Systems.md",
     "Classes/Semesters/Fall 2027/DSB 255/DSB 255.md",
-    "Classes/Semesters/Fall 2027/DSB 255/Elizabeth Holmes and Theranos Full Notes.md",
     "Assets/Pasted image 20260903121329.png",
     "Untitled.canvas",
     "Assets/Pasted image 20260901153809.png",

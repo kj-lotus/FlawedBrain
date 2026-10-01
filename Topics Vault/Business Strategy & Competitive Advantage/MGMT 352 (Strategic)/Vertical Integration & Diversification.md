@@ -55,4 +55,4 @@ Forward Vertical Integration⬇️
 ## Related Notes
 
 - [[Apple Supply Chain in class - SCOM 465]]
-
+- [[Kraljic Matrix EV Example]]

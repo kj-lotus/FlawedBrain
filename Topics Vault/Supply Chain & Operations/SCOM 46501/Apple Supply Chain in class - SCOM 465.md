@@ -257,4 +257,4 @@ Supporting capabilities: low inventory · launch coordination · quality discipl
 - [[Supply Chain 1]]
 - [[Bullwhip Effect]]
 - [[Chapter 6 - Differentiation, Cost Leadership]]
-
+- [[Kraljic Matrix EV Example]]

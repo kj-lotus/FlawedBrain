@@ -1,6 +1,6 @@
 # Supply Chain & Operations
 
-Process capacity, bottlenecks, batching, queuing, inventory policy, the bullwhip effect, and real supply chain cases (Apple, Whirlpool, the Beer Game). This is the biggest cluster because supply chain concepts from SCOM 465 and MGMT 361 constantly reinforce each other.
+Process capacity, bottlenecks, batching, queuing, inventory policy, the bullwhip effect, sourcing strategy (the Kraljic Matrix), and real supply chain cases (Apple, Whirlpool, the Beer Game). This is the biggest cluster because supply chain concepts from SCOM 465 and MGMT 361 constantly reinforce each other.
 
 ## Notes by originating class
 
@@ -31,6 +31,7 @@ Process capacity, bottlenecks, batching, queuing, inventory policy, the bullwhip
 ### SCOM 46501
 
 - [[Apple Supply Chain in class - SCOM 465]]
+- [[Kraljic Matrix EV Example]]
 - [[Apple Supply Chain pre class - SCOM 465]]
 - [[SCOM 46501]]
 - [[Supply Process Class 3 SCOM 465]]

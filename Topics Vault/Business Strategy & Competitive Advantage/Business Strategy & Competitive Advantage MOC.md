@@ -27,6 +27,10 @@ Competitive advantage, Porter's five forces, differentiation vs. cost leadership
 
 - [[Porter 5 forces - MIS 382]]
 
+### Related from Supply Chain & Operations
+
+- [[Kraljic Matrix EV Example]] (supplier power and make or buy decisions applied to EV sourcing)
+
 ---
 
 [[Home]]

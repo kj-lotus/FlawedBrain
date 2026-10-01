@@ -121,3 +121,4 @@ models)
 - [[Comparative Advantage + Value]]
 - [[ECON 301 exam study]]
 - [[15.2 Operating Systems]]
+- [[Kraljic Matrix EV Example]]
