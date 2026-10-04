@@ -25,10 +25,14 @@
             "id": "6aecaf863c9c9992",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Topics Vault/Supply Chain & Operations/SCOM 46501/Kraljic Matrix EV Example.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kraljic Matrix EV Example"
             }
           },
           {
@@ -225,6 +229,7 @@
   },
   "active": "6aecaf863c9c9992",
   "lastOpenFiles": [
+    "Untitled.md",
     "Classes/Semesters/Fall 2027/OBHR 330/Ch 07 Motivation Concepts.md",
     "Classes/Semesters/Fall 2027/QM 306/QM 306 HW3 Practice Walkthrough.md",
     "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
@@ -232,7 +237,6 @@
     "Classes/Semesters/Fall 2027/OBHR 330/CH 02 interactive reading - OBHR 330.md",
     "Classes/Semesters/Spring 2026/MGMT 254 (Business Law)/Insurance Law Notes.md",
     "Classes/Semesters/Fall 2027/ECON 301/ECON 301 exam study.md",
-    "Untitled.md",
     "Classes/Semesters/Fall 2027/ECON 301/ECON 301.md",
     "Classes/Semesters/Fall 2027/OBHR 330/CH 06 Perception and Individual Decision Making.md",
     "Classes/Semesters/Fall 2027/MIS 382/15.2 Operating Systems.md",
