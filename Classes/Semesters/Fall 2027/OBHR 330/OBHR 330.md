@@ -4,3 +4,5 @@
 [[CH 06 Perception and Individual Decision Making]]
 [[Ch 07 Motivation Concepts]]
 [[CH03 Job Attitudes]]
+[[CH 05 Personality and individual differences.]]
+[[CH09 Foundations of group behavior]]
