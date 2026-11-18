@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "CH09 Foundations of group behavior"
             }
+          },
+          {
+            "id": "60282d8ee2808abb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Semesters/Fall 2027/OBHR 330/CH09 Foundations of group behavior.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CH09 Foundations of group behavior"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -198,11 +213,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "6dd7fac67dd837b0",
+  "active": "60282d8ee2808abb",
   "lastOpenFiles": [
+    "CH 9.md",
+    "Classes/Semesters/Fall 2027/OBHR 330/CH09 Foundations of group behavior.md",
     "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
     "Classes/Semesters/Fall 2027/OBHR 330/CH 05 Personality and individual differences..md",
-    "Classes/Semesters/Fall 2027/OBHR 330/CH09 Foundations of group behavior.md",
     "Classes/Semesters/Fall 2027/ECON 301/ECON 301.md",
     "Classes/Semesters/Fall 2027/ECON 301/7 principles of effective managerial decision making.md",
     "Topics Vault/Supply Chain & Operations/SCOM 46501/Kraljic Matrix EV Example.md",
@@ -225,7 +241,6 @@
     "Topics Vault/Business Ethics & Corporate Accountability/DSB 255 (Business Ethics)/Elizabeth Holmes and Theranos Full Notes.md",
     "Topics Vault/Business Ethics & Corporate Accountability/DSB 255 (Business Ethics)/DSB 255.md",
     "Classes/Semesters/Fall 2027/SCOM 46501/Whirlpool Global Procurement Pre Class Quiz Notes.md",
-    "Classes/Semesters/Fall 2027/SCOM 46501/SCOM 46501.md",
     "Assets/Pasted image 20260903121329.png",
     "Untitled.canvas",
     "Assets/Pasted image 20260901153809.png",
