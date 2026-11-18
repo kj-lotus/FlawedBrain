@@ -34,9 +34,37 @@
               "icon": "lucide-file",
               "title": "CH09 Foundations of group behavior"
             }
+          },
+          {
+            "id": "5336c9e90369de4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OBHR 330"
+            }
+          },
+          {
+            "id": "a5e25c23c9ad7d24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CH 13 Power and Politics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CH 13 Power and Politics"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -213,10 +241,12 @@
       "terminal:Open terminal": false
     }
   },
-  "active": "60282d8ee2808abb",
+  "active": "5336c9e90369de4e",
   "lastOpenFiles": [
-    "CH 9.md",
+    "Classes/Semesters/Fall 2027/OBHR 330/CH 12 Leadership.md",
+    "CH 13 Power and Politics.md",
     "Classes/Semesters/Fall 2027/OBHR 330/CH09 Foundations of group behavior.md",
+    "CH 9.md",
     "Classes/Semesters/Fall 2027/OBHR 330/OBHR 330.md",
     "Classes/Semesters/Fall 2027/OBHR 330/CH 05 Personality and individual differences..md",
     "Classes/Semesters/Fall 2027/ECON 301/ECON 301.md",
@@ -239,8 +269,6 @@
     "Topics Vault/Organizational Behavior & Human Resources/Organizational Behavior & Human Resources MOC.md",
     "Topics Vault/Business Ethics & Corporate Accountability/DSB 255 (Business Ethics)/Wells Fargo & Facebook.md",
     "Topics Vault/Business Ethics & Corporate Accountability/DSB 255 (Business Ethics)/Elizabeth Holmes and Theranos Full Notes.md",
-    "Topics Vault/Business Ethics & Corporate Accountability/DSB 255 (Business Ethics)/DSB 255.md",
-    "Classes/Semesters/Fall 2027/SCOM 46501/Whirlpool Global Procurement Pre Class Quiz Notes.md",
     "Assets/Pasted image 20260903121329.png",
     "Untitled.canvas",
     "Assets/Pasted image 20260901153809.png",
