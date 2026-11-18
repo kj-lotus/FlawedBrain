@@ -6,3 +6,5 @@
 [[CH03 Job Attitudes]]
 [[CH 05 Personality and individual differences.]]
 [[CH09 Foundations of group behavior]]
+[[CH 12 Leadership]]
+[[CH 13 Power and Politics]]
