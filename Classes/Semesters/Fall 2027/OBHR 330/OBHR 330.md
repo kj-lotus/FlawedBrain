@@ -8,3 +8,4 @@
 [[CH09 Foundations of group behavior]]
 [[CH 12 Leadership]]
 [[CH 13 Power and Politics]]
+[[CH 14 Conflict & Negotiations]]
